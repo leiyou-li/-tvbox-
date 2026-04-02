@@ -178,3 +178,5 @@ live.jinchuanrmt.com:90
 live1.gatv.com.cn:85
 php.jdshipin.com:80
 114.243.96.219:8888
+p2.vzan.com:80
+124.116.183.146:9901
