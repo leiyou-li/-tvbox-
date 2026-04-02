@@ -175,3 +175,6 @@ live.ottiptv.cc:443
 221.229.212.86:14990
 221.13.235.74:9901
 live.jinchuanrmt.com:90
+live1.gatv.com.cn:85
+php.jdshipin.com:80
+114.243.96.219:8888
