@@ -26,3 +26,7 @@ gfr.x3322.net
 pull-hls-f11.douyincdn.com
 112.123.243.37
 124.116.183.146
+5ddce30eb4b55.streamlock.net
+218.17.33.178
+genglei.8866.org
+webcast.hkstv.tv
