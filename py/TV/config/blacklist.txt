@@ -101,3 +101,12 @@ vip.lqcc.xyz:15511
 148.113.160.49:14187
 tv.greatstar.me:80
 smart.pendy.dpdns.org:443
+stream.appwuhan.com:80
+genglei.8866.org:9901
+221.229.212.86:14973
+182.114.49.92:9901
+221.229.212.86:14998
+221.229.212.86:14965
+php.jdshipin.com:2096
+tk2.hugo.cc.cd:443
+221.229.212.86:14926
