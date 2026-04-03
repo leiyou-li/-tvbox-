@@ -174,3 +174,8 @@ hls.ningxiahuangheyun.com:443
 221.229.212.86:14986
 221.229.212.86:14909
 222.214.208.34:59901
+english-livetx.cgtn.com:80
+221.229.212.86:14973
+p2hs.vzan.com:443
+english-livetx.cgtn.com:443
+1.24.39.180:9003
