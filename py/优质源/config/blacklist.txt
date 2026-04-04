@@ -35,3 +35,5 @@ webcast.hkstv.tv
 l.cztvcloud.com
 goodiptv.club
 hlsal-ldvt.qing.mgtv.com
+111.56.90.5
+218.15.183.23
