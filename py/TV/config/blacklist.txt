@@ -183,3 +183,5 @@ goodiptv.club:443
 116.233.67.80:8899
 www.goodiptv.club:80
 other.ottiptv.cc:443
+pixman.passwdwork.cc.cd:443
+udinlaw.sytes.net:8000
