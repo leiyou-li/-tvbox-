@@ -174,3 +174,10 @@ p.ytelc.com:80
 channel.wcrmt.cn:80
 183.223.157.33:9901
 gfr.x3322.net:9901
+smt.pixman.us.ci:443
+171.120.189.21:89
+live.ottiptv.cc:443
+goodiptv.club:443
+112.123.243.37:50085
+118.251.98.63:8888
+116.233.67.80:8899
