@@ -174,3 +174,4 @@ m.061899.xyz:80
 183.47.2.156:16883
 221.13.235.2:9901
 www.cdnstv.com:6398
+stream.appwuhan.com:80
