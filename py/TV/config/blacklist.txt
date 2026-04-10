@@ -148,3 +148,6 @@ iptv.4666888.xyz:80
 101.66.199.108:9901
 smt.pixman.us.ci:443
 m3u8file.lstv.org.cn:80
+123.130.84.106:8154
+stream.appwuhan.com:80
+live.tvfix.org:443
