@@ -34,3 +34,6 @@ hczn.x3322.net
 nn.7x9d.cn
 5ddce30eb4b55.streamlock.net
 120.211.62.180
+221.13.235.162
+pull-hls-f11.douyincdn.com
+221.13.235.111
