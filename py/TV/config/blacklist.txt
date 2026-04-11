@@ -141,3 +141,7 @@ itv.iptv1688.top:2016
 221.229.212.86:14923
 live.nbs.cn:80
 iptv.huuc.edu.cn:80
+stream.appwuhan.com:80
+php.jdshipin.com:2096
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
+116.233.67.80:8899
