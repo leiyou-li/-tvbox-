@@ -14,3 +14,6 @@ live.ynurl.com
 111.221.137.234
 lbds.us.ci
 play.kankanlive.com
+222.169.85.8
+t.freetv.fun
+124.116.183.146
