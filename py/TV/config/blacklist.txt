@@ -158,3 +158,4 @@ test.946985.filegear-sg.me:443
 119.39.9.8:9901
 live.jinchuanrmt.com:90
 stream.hrbtv.net:80
+ali-m-l.cztv.com:443
