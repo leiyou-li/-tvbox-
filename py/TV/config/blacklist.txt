@@ -166,3 +166,5 @@ video.bread-tv.com:8091
 tpc.x3322.net:9901
 www.lwfz.fun:8800
 121.19.134.146:808
+stream.sun0769.com:443
+182.114.48.40:9901
