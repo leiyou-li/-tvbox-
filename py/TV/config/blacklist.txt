@@ -165,3 +165,4 @@ p.ytelc.com:80
 video.bread-tv.com:8091
 tpc.x3322.net:9901
 www.lwfz.fun:8800
+121.19.134.146:808
