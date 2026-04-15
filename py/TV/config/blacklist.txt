@@ -109,3 +109,7 @@ ottrrs.hl.chinamobile.com:80
 vip.lqcc.xyz:35455
 php.jdshipin.com:2096
 n24-cdn-live.ntv.co.jp:443
+122.224.58.42:85
+mytv.cdn.loc.cc:443
+125.43.241.91:9901
+183.10.180.81:9901
