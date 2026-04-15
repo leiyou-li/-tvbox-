@@ -145,3 +145,5 @@ pull-vivek.speedws.com:80
 d12a2vxqkkh1bo.cloudfront.net:443
 8.138.7.223:80
 111.221.137.234:44330
+117.10.133.177:8888
+php.jdshipin.com:2096
