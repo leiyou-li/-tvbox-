@@ -135,3 +135,7 @@ p2.bdstatic.com:443
 rihou.cc:555
 smt.1678520.xyz:443
 svipsvip.ffzyread1.com:443
+r.jdshipin.com:80
+101.66.198.168:9901
+other.ottiptv.cc:443
+119.39.9.8:9901
