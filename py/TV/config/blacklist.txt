@@ -105,3 +105,4 @@ d18dyiwu97wm6q.cloudfront.net:443
 mytv.cdn.com.mp:80
 2409:8087:1a01:df::7005:80
 101.66.195.241:9901
+vip1.xinketongxun.fun:8082
