@@ -34,3 +34,5 @@ nn.7x9d.cn
 218.17.33.178
 123.129.70.178
 pull-hls-f11.douyincdn.com
+stream.freetv.fun
+154.37.212.176
