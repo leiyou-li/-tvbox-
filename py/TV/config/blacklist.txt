@@ -127,3 +127,8 @@ www.cdnstv.com:6398
 rihou.cc:555
 182.114.49.159:9901
 stream.hrbtv.net:80
+stream.freetv.fun:443
+live12.xiazhix1.top:443
+other.ottiptv.cc:443
+www.lwfz.fun:8800
+117.93.83.69:4000
