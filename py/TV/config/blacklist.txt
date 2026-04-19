@@ -117,3 +117,5 @@ goodiptv.club:443
 182.135.66.163:1888
 182.135.66.163:18888
 218.15.183.23:9901
+live12.xiazhix1.top:443
+bp-resource-dfl.bestv.cn:80
