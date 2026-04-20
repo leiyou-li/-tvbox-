@@ -24,3 +24,7 @@ stream.freetv.fun
 l.cztvcloud.com
 pull-hls-f11.douyincdn.com
 epg.pw
+111.221.137.234
+222.169.85.8
+171.116.254.184
+125.43.244.73
