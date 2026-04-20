@@ -132,3 +132,6 @@ other.ottiptv.cc:443
 49.234.31.101:7033
 49.234.31.101:7040
 175.0.64.97:8888
+pull-hls-f11.douyincdn.com:80
+stream.freetv.fun:443
+hkstv.tv:443
