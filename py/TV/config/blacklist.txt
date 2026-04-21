@@ -97,3 +97,5 @@ gdcucc.v1.mk:443
 nas.hssvm.com:8888
 wouu.net:9977
 148.113.160.49:14176
+tpc.x3322.net:9901
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
