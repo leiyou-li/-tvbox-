@@ -124,3 +124,5 @@ p.ytelc.com:80
 101.66.198.104:9901
 218.81.49.34:10010
 other.ottiptv.cc:443
+5ddce30eb4b55.streamlock.net:443
+113.81.20.24:8188
