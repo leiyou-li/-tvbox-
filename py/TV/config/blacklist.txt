@@ -110,3 +110,4 @@ www.goodiptv.club:80
 183.220.20.17:4321
 116.233.67.80:8899
 p.ytelc.com:80
+live.tvfix.org:443
