@@ -18,3 +18,7 @@ goodiptv.club
 play.kankanlive.com
 219.150.217.47
 153.0.171.163
+pull-hls-f11.douyincdn.com
+222.169.85.8
+124.116.183.146
+iptv.4666888.xyz
