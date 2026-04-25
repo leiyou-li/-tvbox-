@@ -22,3 +22,4 @@ pull-hls-f11.douyincdn.com
 222.169.85.8
 124.116.183.146
 iptv.4666888.xyz
+stream.hrbtv.net
