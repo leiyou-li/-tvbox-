@@ -133,3 +133,4 @@ gcalic.v.myalicdn.com:443
 iptv.catvod.com:443
 221.13.234.233:9901
 cdn.jdshipin.com:8880
+115.48.160.52:9901
