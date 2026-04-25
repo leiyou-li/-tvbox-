@@ -125,3 +125,7 @@ live.ottiptv.cc:443
 222.214.208.34:59901
 cnpull.sccnfb.com:80
 hkstv.tv:443
+14.152.102.71:9901
+gcwbndali.v.myalicdn.com:443
+gcalic.v.myalicdn.com:443
+101.35.240.114:88
