@@ -116,3 +116,6 @@ tencentplay.gztv.com:80
 live.tvfix.org:443
 live.ottiptv.cc:443
 182.114.48.241:9901
+play.yunxya.com:443
+124.116.183.146:9901
+pili-live-hls.wdit.com.cn:443
