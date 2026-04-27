@@ -119,3 +119,4 @@ live.ottiptv.cc:443
 play.yunxya.com:443
 124.116.183.146:9901
 pili-live-hls.wdit.com.cn:443
+218.81.49.34:10010
