@@ -134,3 +134,4 @@ pili-live-hls.wdit.com.cn:443
 5ddce30eb4b55.streamlock.net:443
 epg.pw:443
 vip1.xinketongxun.fun:8082
+49.234.31.101:7033
