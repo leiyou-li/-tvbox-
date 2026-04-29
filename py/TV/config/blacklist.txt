@@ -135,3 +135,6 @@ pili-live-hls.wdit.com.cn:443
 epg.pw:443
 vip1.xinketongxun.fun:8082
 49.234.31.101:7033
+112.226.228.106:22222
+218.104.239.114:9901
+p2.bdstatic.com:443
