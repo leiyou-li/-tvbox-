@@ -106,3 +106,10 @@ genglei.8866.org:9901
 101.66.195.221:9901
 222.169.85.8:9901
 175.0.64.97:8888
+livestream-bt.nmtv.cn:443
+www.goodiptv.club:80
+119.39.9.8:9901
+rihou.cc:555
+218.104.239.114:9901
+goodiptv.club:443
+pili-live-hls.wdit.com.cn:443
