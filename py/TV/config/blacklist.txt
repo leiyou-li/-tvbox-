@@ -121,3 +121,5 @@ php.jdshipin.com:80
 36.40.237.166:9999
 other.ottiptv.cc:443
 pull-hls-f11.douyincdn.com:80
+txmov2.a.kwimgs.com:80
+cdn3.163189.xyz:80
