@@ -18,3 +18,6 @@ iptv.4666888.xyz
 grandprix2023.asuscomm.com
 l.cztvcloud.com
 219.150.217.47
+183.223.157.33
+222.169.85.8
+pull-hls-f11.douyincdn.com
