@@ -123,3 +123,6 @@ other.ottiptv.cc:443
 pull-hls-f11.douyincdn.com:80
 txmov2.a.kwimgs.com:80
 cdn3.163189.xyz:80
+116.233.67.80:8899
+107.150.60.122:80
+dassby.qqff.top:99
