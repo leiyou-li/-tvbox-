@@ -133,3 +133,5 @@ i.mjh.nz:443
 live.ottiptv.cc:443
 120.10.167.40:1234
 106.111.244.12:58099
+bcovlive-a.akamaihd.net:443
+p2.bdstatic.com:443
