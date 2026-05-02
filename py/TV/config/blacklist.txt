@@ -107,3 +107,4 @@ live.tvfix.org:443
 pili-live-hls.wdit.com.cn:443
 49.65.86.7:58888
 tencentplay.gztv.com:80
+txmov2.a.kwimgs.com:80
