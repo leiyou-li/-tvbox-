@@ -24,3 +24,5 @@ pull-hls-f11.douyincdn.com
 218.104.239.114
 120.10.167.40
 live.264788.xyz
+5ddce30eb4b55.streamlock.net
+61.216.67.119
