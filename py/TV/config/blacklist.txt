@@ -113,3 +113,6 @@ tpc.x3322.net:9901
 36.40.237.13:9999
 livepull.myntv.cn:80
 hkstv.tv:443
+111.167.32.120:5002
+other.ottiptv.cc:443
+live.ottiptv.cc:443
