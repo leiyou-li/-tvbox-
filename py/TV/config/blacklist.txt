@@ -115,3 +115,15 @@ lb.streaming.sk:80
 218.13.170.98:9901
 124.116.183.146:9901
 113.65.124.131:9527
+php.jdshipin.com:8880
+218.104.239.114:9901
+cdn5.163189.xyz:443
+php.jdshipin.com:80
+live.ottiptv.cc:443
+hkstv.tv:443
+other.ottiptv.cc:443
+cdn.163189.xyz:80
+r.jdshipin.com:80
+cdn8.163189.xyz:443
+0472.org:443
+www.lwfz.fun:8800
