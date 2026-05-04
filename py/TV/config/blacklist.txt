@@ -90,3 +90,11 @@ zhibo.hkstv.tv:80
 live.dameijunlian.cn:80
 122.228.73.138:2380
 20240504.shunyue1809.com:6321
+183.129.255.66:8480
+153.0.171.163:9901
+goodiptv.club:443
+tencentplay.gztv.com:443
+111.167.32.120:5002
+play.yunxya.com:443
+www.goodiptv.club:80
+183.47.2.156:16883
