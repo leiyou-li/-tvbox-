@@ -127,3 +127,5 @@ r.jdshipin.com:80
 cdn8.163189.xyz:443
 0472.org:443
 www.lwfz.fun:8800
+live.tvfix.org:443
+119.39.9.8:9901
