@@ -31,3 +31,4 @@ lb.streaming.sk
 183.129.255.66
 t.freetv.fun
 110.40.170.5
+r.jdshipin.com
