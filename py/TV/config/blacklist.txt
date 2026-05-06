@@ -108,3 +108,9 @@ tencentplay.gztv.com:80
 112.132.10.54:9901
 101.66.194.96:9901
 101.66.194.89:9901
+www.lwfz.fun:8800
+183.129.255.66:8480
+livestream-bt.nmtv.cn:443
+221.13.235.43:9901
+stream.sun0769.com:443
+hsplay-360.v.btime.com:443
