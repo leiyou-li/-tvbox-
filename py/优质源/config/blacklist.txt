@@ -18,3 +18,6 @@ masterpull.hljtv.com
 153.0.171.163
 idclive.hljtv.com
 rmplive.hljtv.com
+183.129.255.66
+r.jdshipin.com
+219.155.100.251
