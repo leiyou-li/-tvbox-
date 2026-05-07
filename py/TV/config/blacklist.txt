@@ -129,3 +129,7 @@ other.ottiptv.cc:443
 222.128.26.62:4001
 kakaxi.indevs.in:80
 vip1.xinketongxun.fun:8082
+121.19.134.54:808
+livepull.myntv.cn:80
+p2.vzan.com:80
+play.yunxya.com:443
