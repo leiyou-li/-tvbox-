@@ -123,3 +123,8 @@ p.ytelc.com:80
 jsmov2.a.yximgs.com:80
 ali-m-l.cztv.com:443
 218.13.170.98:9901
+1.197.250.80:9901
+49.65.86.7:58888
+other.ottiptv.cc:443
+222.128.26.62:4001
+kakaxi.indevs.in:80
