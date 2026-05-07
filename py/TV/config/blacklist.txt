@@ -133,3 +133,7 @@ vip1.xinketongxun.fun:8082
 livepull.myntv.cn:80
 p2.vzan.com:80
 play.yunxya.com:443
+dxtx.hntv.tv:443
+221.193.168.107:9901
+121.19.134.244:808
+36.40.237.125:9999
