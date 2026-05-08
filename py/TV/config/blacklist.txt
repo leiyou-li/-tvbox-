@@ -98,3 +98,5 @@ scdytv.cn:1935
 www.lizhinas.top:1009
 bp-livetytv.bestv.cn:80
 vip.lqcc.xyz:15511
+123.129.70.178:9901
+r.jdshipin.com:80
