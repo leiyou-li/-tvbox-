@@ -145,3 +145,4 @@ dxtx.hntv.tv:443
 183.220.20.17:4321
 101.66.198.11:9901
 stream.freetv.fun:443
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
