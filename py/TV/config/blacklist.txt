@@ -156,3 +156,8 @@ txmov2.a.kwimgs.com:80
 49.234.31.101:7033
 pull-hls-f11.douyincdn.com:80
 gmxw.7766.org:808
+svip.high24-playback.com:443
+119.39.9.8:9901
+live.264788.xyz:443
+221.193.168.166:9901
+bxtv.3a.ink:80
