@@ -126,3 +126,6 @@ live.tvfix.org:443
 other.ottiptv.cc:443
 pili-live-hls-sjxgz2024.sobeylive.com:443
 218.104.239.114:9901
+38.75.136.137:98
+49.77.20.134:8118
+epg.pw:443
