@@ -34,3 +34,7 @@ t.freetv.fun
 107.150.60.122
 pull-hls-f11.douyincdn.com
 119.39.9.8
+221.13.235.120
+120.211.62.180
+120.10.167.40
+l.cztvcloud.com
