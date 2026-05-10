@@ -93,3 +93,8 @@ genglei.8866.org:9901
 nhkwlive-ojp.akamaized.net:443
 idclive.hljtv.com:4430
 iot-mqqt.111yao.cn:8080
+t.freetv.fun:443
+183.47.2.156:16883
+153.0.171.163:9901
+183.129.255.66:8480
+www.goodiptv.club:80
