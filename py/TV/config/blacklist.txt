@@ -124,3 +124,7 @@ www.cdnstv.com:6398
 49.234.31.101:7033
 121.19.134.244:808
 svip.high24-playback.com:443
+119.39.9.8:9901
+fl2.moveonjoy.com:80
+www.lwfz.fun:8800
+124.65.2.127:20000
