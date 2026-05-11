@@ -128,3 +128,7 @@ svip.high24-playback.com:443
 fl2.moveonjoy.com:80
 www.lwfz.fun:8800
 124.65.2.127:20000
+stream.freetv.fun:443
+125.42.150.148:9901
+116.233.67.80:8899
+218.13.170.98:9901
