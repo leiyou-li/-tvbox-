@@ -137,3 +137,7 @@ stream.freetv.fun:443
 live.ottiptv.cc:443
 iptv.kakacq.com:8888
 59.62.1.50:8888
+182.114.48.199:9901
+119.131.25.38:9003
+l.cztvcloud.com:80
+vip1.xinketongxun.fun:8082
