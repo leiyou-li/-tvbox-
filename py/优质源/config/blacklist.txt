@@ -17,3 +17,8 @@ iptv.kakacq.com
 153.0.171.163
 genglei.8866.org
 liveout.gstv.com.cn
+play-a2.quklive.com
+r.jdshipin.com
+dafeng-tv-hls.cm.jstv.com
+pull-hls-f11.douyincdn.com
+live12.xiazhix1.top
