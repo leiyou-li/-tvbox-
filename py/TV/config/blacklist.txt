@@ -144,3 +144,4 @@ vip1.xinketongxun.fun:8082
 p2.vzan.com:80
 play.yunxya.com:443
 1.94.31.214:80
+117.86.49.60:7777
