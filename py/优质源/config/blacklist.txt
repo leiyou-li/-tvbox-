@@ -22,3 +22,7 @@ r.jdshipin.com
 dafeng-tv-hls.cm.jstv.com
 pull-hls-f11.douyincdn.com
 live12.xiazhix1.top
+124.116.183.146
+112.123.243.37
+222.169.85.8
+218.104.239.114
