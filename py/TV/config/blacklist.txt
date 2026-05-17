@@ -91,3 +91,11 @@ live.wanyuannews.com:80
 v.hystudio.cn:8088
 tmpstream.hyrtv.cn:80
 111.22.153.159:35455
+218.104.239.114:9901
+live.ottiptv.cc:443
+112.123.243.37:50085
+104.250.145.76:80
+live.tvfix.org:443
+live.264788.xyz:443
+nor3live.win:80
+153.0.171.163:9901
