@@ -17,3 +17,8 @@ stream.thmz.com
 masterpull.hljtv.com
 219.150.217.47
 rmplive.hljtv.com
+l.cztvcloud.com
+r.jdshipin.com
+haimen-tv-hls.cm.jstv.com
+47.108.228.131
+183.129.255.66
