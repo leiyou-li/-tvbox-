@@ -136,3 +136,6 @@ rihou.cc:555
 101.66.199.215:9901
 218.104.239.114:9901
 m3u8.channel.dzsm.com:443
+www.cdnstv.com:6398
+test1.live.sdetv.com.cn:80
+www.lwfz.fun:8800
