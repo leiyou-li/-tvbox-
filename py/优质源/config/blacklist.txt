@@ -31,3 +31,6 @@ live.264788.xyz
 113.141.220.55
 112.123.243.37
 stream1.freetv.fun
+epg.pw
+shcm-stream-cf1.stream.264788.xyz
+hkstv.tv
