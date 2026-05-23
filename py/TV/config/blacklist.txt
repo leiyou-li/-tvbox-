@@ -187,3 +187,5 @@ txmov2.a.kwimgs.com:80
 v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
 221.193.168.129:9901
 live.ottiptv.cc:443
+123.113.205.253:3000
+live.qthnews.org.cn:1935
