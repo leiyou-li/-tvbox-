@@ -207,3 +207,5 @@ cdn3.163189.xyz:80
 epg.pw:443
 svip.high24-playback.com:443
 111.122.65.136:1234
+49.65.86.7:58888
+jwcdnqx.hebyun.com.cn:443
