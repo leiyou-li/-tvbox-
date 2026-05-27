@@ -156,3 +156,6 @@ antvlive.ab5c6921.cdnviet.com:80
 119.118.88.58:7788
 event.pull.hebtv.com:443
 pili-live-hls.wdit.com.cn:443
+www.cdnstv.com:6398
+222.130.32.44:7788
+221.13.235.33:9901
