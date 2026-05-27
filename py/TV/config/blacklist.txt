@@ -153,3 +153,6 @@ antvlive.ab5c6921.cdnviet.com:80
 119.39.9.8:9901
 36.136.38.87:9901
 183.237.95.108:9901
+119.118.88.58:7788
+event.pull.hebtv.com:443
+pili-live-hls.wdit.com.cn:443
