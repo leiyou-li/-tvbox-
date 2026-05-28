@@ -163,3 +163,5 @@ www.cdnstv.com:6398
 116.236.204.18:1234
 1.197.249.39:9901
 47.100.209.208:8100
+hls.ningxiahuangheyun.com:443
+d12a2vxqkkh1bo.cloudfront.net:443
