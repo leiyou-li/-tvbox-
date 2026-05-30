@@ -184,3 +184,5 @@ zmgd.zyrnet.com:8888
 218.206.193.218:8888
 live.264788.xyz:443
 182.114.48.162:9901
+goodiptv.club:443
+iptv.catvod.com:443
