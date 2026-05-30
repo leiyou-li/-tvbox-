@@ -186,3 +186,4 @@ live.264788.xyz:443
 182.114.48.162:9901
 goodiptv.club:443
 iptv.catvod.com:443
+stream1.freetv.fun:443
