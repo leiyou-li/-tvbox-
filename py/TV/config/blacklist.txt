@@ -179,3 +179,6 @@ cdn15.163189.xyz:443
 221.193.168.210:9901
 ali-xwl.cztv.com:80
 l.cztvcloud.com:80
+shcm-stream-cf1.stream.264788.xyz:443
+zmgd.zyrnet.com:8888
+218.206.193.218:8888
