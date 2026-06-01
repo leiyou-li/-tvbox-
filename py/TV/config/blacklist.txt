@@ -122,3 +122,4 @@ tmpstream.hyrtv.cn:80
 live.ottiptv.cc:443
 183.220.20.17:4321
 www.negative.top:50000
+8.135.27.147:1234
