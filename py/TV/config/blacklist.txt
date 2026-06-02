@@ -158,3 +158,4 @@ play-live-hls.jxtvcn.com.cn:80
 221.193.168.7:9901
 fuxin.yunjifei.top:999
 116.233.67.80:8899
+live.qthnews.org.cn:1935
