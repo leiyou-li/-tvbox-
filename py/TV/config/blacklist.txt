@@ -175,3 +175,6 @@ gslbmgsplive.miguvideo.com:80
 119.88.243.98:17231
 rihou.cc:555
 t.061899.xyz:80
+1.24.39.180:9003
+live.264788.xyz:443
+shcm-stream-cf1.stream.264788.xyz:443
