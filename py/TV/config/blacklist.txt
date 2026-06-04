@@ -188,3 +188,5 @@ shcm-stream-cf1.stream.264788.xyz:443
 36.40.237.106:9999
 zmgd.zyrnet.com:8888
 www.cdnstv.com:6398
+221.193.168.246:9901
+1.94.31.214:80
