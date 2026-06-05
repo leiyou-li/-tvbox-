@@ -193,3 +193,6 @@ www.cdnstv.com:6398
 vip1.xinketongxun.fun:8082
 221.219.104.6:1193
 14.118.74.55:10001
+221.7.175.154:8445
+dbrb49pjoymg4.cloudfront.net:443
+utv1.hqtvzb.com:9999
