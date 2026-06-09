@@ -174,3 +174,5 @@ gd202.tv1288.xyz:443
 101.66.199.65:9901
 nmxlive.akamaized.net:80
 live.jinchuanrmt.com:90
+125.42.148.181:9901
+221.193.168.82:9901
