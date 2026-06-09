@@ -180,3 +180,5 @@ live.jinchuanrmt.com:90
 101.6.130.52:1234
 110.154.192.30:7788
 124.77.202.8:49155
+l.cztvcloud.com:80
+cdn.jdshipin.com:8880
