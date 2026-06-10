@@ -57,3 +57,6 @@ tvcdn.stream3.hndt.com
 r.jdshipin.com
 ali-xwl.cztv.com
 shcm-stream-cf1.stream.264788.xyz
+110.154.192.30
+115.44.140.170
+39.165.39.49
