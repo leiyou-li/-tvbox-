@@ -209,3 +209,6 @@ cdn5.163189.xyz:443
 hkstv.tv:443
 shcm-stream-cf1.stream.264788.xyz:443
 183.47.2.156:16883
+106.111.244.12:58099
+p2.vzan.com:80
+dxtx.hntv.tv:443
