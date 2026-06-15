@@ -242,3 +242,7 @@ v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
 221.193.168.175:9901
 d12a2vxqkkh1bo.cloudfront.net:443
 p.ytelc.com:80
+gslbflvmgsplive.miguvideo.com:80
+43.156.8.127:5050
+gslbmgspvod.miguvideo.com:80
+121.19.134.56:808
