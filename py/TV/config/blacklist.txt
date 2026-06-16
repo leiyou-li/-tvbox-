@@ -253,3 +253,8 @@ hls.gstv.com.cn:443
 221.193.168.153:9901
 antvlive.ab5c6921.cdnviet.com:80
 mytv.cdn.loc.cc:443
+tylive.kan0512.com:443
+1.197.250.199:9901
+182.114.48.213:9901
+223.75.149.129:9906
+gcwbndali.v.myalicdn.com:443
