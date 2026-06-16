@@ -251,3 +251,5 @@ gslbmgspvod.miguvideo.com:80
 hls.gstv.com.cn:443
 59.39.89.130:60901
 221.193.168.153:9901
+antvlive.ab5c6921.cdnviet.com:80
+mytv.cdn.loc.cc:443
