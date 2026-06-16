@@ -52,3 +52,6 @@ stream.thmz.com
 zmgd.zyrnet.com
 222.214.208.34
 183.129.255.66
+221.226.51.220
+antvlive.ab5c6921.cdnviet.com
+l.cztvcloud.com
