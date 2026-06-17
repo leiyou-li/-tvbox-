@@ -259,3 +259,6 @@ tylive.kan0512.com:443
 223.75.149.129:9906
 gcwbndali.v.myalicdn.com:443
 vip.ffzy-play6.com:443
+vip.ffzy-play1.com:443
+svipsvip.ffzyread1.com:443
+vip.ffzy-play.com:443
