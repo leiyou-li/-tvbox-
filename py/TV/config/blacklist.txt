@@ -284,3 +284,4 @@ zmgd.zyrnet.com:8888
 wfenf.x3322.net:7788
 221.13.235.76:9901
 218.206.193.218:8888
+play.yunxya.com:443
