@@ -315,3 +315,6 @@ www.lwfz.fun:8800
 live.wxinxi.com:443
 125.42.150.16:9901
 14.118.74.55:10001
+hlsztemgspvod.miguvideo.com:8080
+182.61.15.47:80
+www.cdnstv.com:6398
