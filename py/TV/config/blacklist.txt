@@ -319,3 +319,4 @@ hlsztemgspvod.miguvideo.com:8080
 182.61.15.47:80
 www.cdnstv.com:6398
 115.48.160.126:9901
+222.130.32.214:7788
