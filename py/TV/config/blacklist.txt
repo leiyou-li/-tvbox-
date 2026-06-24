@@ -333,3 +333,4 @@ www.goodiptv.club:80
 124.228.160.176:9901
 221.193.168.151:9901
 207.56.13.146:81
+pull-hls-f1.douyinliving.com:80
