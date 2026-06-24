@@ -323,3 +323,7 @@ www.cdnstv.com:6398
 221.193.168.201:9901
 121.19.134.119:808
 223.247.25.230:1234
+hlszymgsplive.miguvideo.com:8080
+stream.sun0769.com:443
+www.goodiptv.club:80
+125.42.150.141:9901
