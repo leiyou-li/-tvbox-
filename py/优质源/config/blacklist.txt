@@ -50,3 +50,6 @@ jwcdnqx.hebyun.com.cn
 182.61.15.163
 d1t.alwaysdata.net
 101.132.26.106
+stream.thmz.com
+123.129.70.178
+116.52.173.172
