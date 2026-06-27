@@ -56,3 +56,5 @@ stream.thmz.com
 183.237.95.108
 l.cztvcloud.com
 120.238.94.82
+epg.pw
+flvhspull2mgsplive.miguvideo.com
