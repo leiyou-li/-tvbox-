@@ -58,3 +58,4 @@ l.cztvcloud.com
 120.238.94.82
 epg.pw
 flvhspull2mgsplive.miguvideo.com
+222.214.208.34
