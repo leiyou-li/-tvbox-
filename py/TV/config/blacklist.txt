@@ -122,3 +122,4 @@ p2.bdstatic.com:443
 play.kankanlive.com:80
 27.12.12.207:1234
 tmpstream.hyrtv.cn:80
+v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com:443
