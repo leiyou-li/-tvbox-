@@ -118,3 +118,6 @@ dxtx.hntv.tv:443
 genglei.8866.org:9901
 webcast.hkstv.tv:80
 hkstv.tv:443
+p2.bdstatic.com:443
+play.kankanlive.com:80
+27.12.12.207:1234
