@@ -121,3 +121,4 @@ hkstv.tv:443
 p2.bdstatic.com:443
 play.kankanlive.com:80
 27.12.12.207:1234
+tmpstream.hyrtv.cn:80
