@@ -18,3 +18,4 @@ idclive.hljtv.com
 219.150.217.47
 epg.pw
 nor3live.win
+183.129.255.66
