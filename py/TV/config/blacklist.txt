@@ -188,3 +188,4 @@ cdn9.163189.xyz:80
 182.114.48.103:9901
 rbmn-live.akamaized.net:80
 36.40.237.231:9999
+shcm-stream-cf1.stream.264788.xyz:443
