@@ -48,3 +48,4 @@ hlszymgspvod.miguvideo.com
 123.129.70.178
 218.13.170.98
 222.169.85.8
+flv-play.clouda.com
