@@ -211,3 +211,5 @@ live.jinchuanrmt.com:90
 goodiptv.club:443
 101.66.194.151:9901
 101.66.199.118:9901
+pull-hls-f1.douyinliving.com:80
+bp-resource-dfl.bestv.cn:443
