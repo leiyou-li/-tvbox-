@@ -242,3 +242,4 @@ liveout.xntv.tv:443
 ali-m-l.cztv.com:443
 36.40.237.158:9999
 rihou.cc:555
+qcfile.qcrmt.com:80
