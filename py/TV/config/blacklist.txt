@@ -269,3 +269,5 @@ gctxyc.liveplay.myqcloud.com:443
 182.114.48.188:9901
 live.hyxrmt.com:85
 222.95.12.2:4022
+bp-resource-dfl.bestv.cn:80
+221.193.168.145:9901
