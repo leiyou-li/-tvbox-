@@ -28,3 +28,6 @@ flv-play.clouda.com
 183.223.157.33
 123.163.114.168
 stream.thmz.com
+l.cztvcloud.com
+119.39.9.8
+218.206.193.218
