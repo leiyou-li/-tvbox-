@@ -264,3 +264,5 @@ txmov2.a.kwimgs.com:443
 english-livetx.cgtn.com:80
 p2.vzan.com:80
 gctxyc.liveplay.myqcloud.com:443
+183.47.2.156:16883
+183.162.104.116:1234
