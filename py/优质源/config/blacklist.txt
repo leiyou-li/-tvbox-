@@ -26,3 +26,5 @@ iptv.4666888.xyz
 flv-play.clouda.com
 74.91.26.218
 183.223.157.33
+123.163.114.168
+stream.thmz.com
