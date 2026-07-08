@@ -290,3 +290,4 @@ www.negative.top:50000
 91.247.68.229:8000
 push.cdn1.hls123.de:8080
 zmgd.zyrnet.com:8888
+bcovlive-a.akamaihd.net:443
