@@ -31,3 +31,7 @@ stream.thmz.com
 l.cztvcloud.com
 119.39.9.8
 218.206.193.218
+116.52.173.231
+bp-resource-dfl.bestv.cn
+182.37.41.46
+live.264788.xyz
