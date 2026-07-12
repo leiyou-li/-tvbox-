@@ -122,3 +122,5 @@ live.tvfix.org:443
 dxtx.hntv.tv:443
 221.13.235.58:9901
 stream1.freetv.fun:443
+epg.pw:443
+182.37.41.46:8154
