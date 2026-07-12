@@ -124,3 +124,6 @@ dxtx.hntv.tv:443
 stream1.freetv.fun:443
 epg.pw:443
 182.37.41.46:8154
+182.114.49.202:9901
+gdcucc.v1.mk:443
+www.negative.top:50000
