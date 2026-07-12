@@ -129,3 +129,5 @@ gdcucc.v1.mk:443
 www.negative.top:50000
 video.epaper.pybtv.cn:8080
 hsplay-360.v.btime.com:443
+49.234.31.101:7033
+8.153.110.51:3020
