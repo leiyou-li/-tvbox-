@@ -131,3 +131,5 @@ video.epaper.pybtv.cn:8080
 hsplay-360.v.btime.com:443
 49.234.31.101:7033
 8.153.110.51:3020
+txmov2.a.kwimgs.com:80
+svip.high24-playback.com:443
