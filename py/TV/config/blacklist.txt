@@ -120,3 +120,4 @@ hwapi.yntv.net:443
 123.130.84.106:8154
 tv.pull.hebtv.com:80
 222.169.85.8:9901
+p.ytelc.com:80
