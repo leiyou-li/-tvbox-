@@ -93,3 +93,4 @@ sansat.net:88
 tv-trtworld.live.trt.com.tr:443
 111.22.153.159:35455
 itv.iptv1688.top:2016
+116.52.173.34:1234
