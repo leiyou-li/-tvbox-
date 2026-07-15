@@ -97,3 +97,14 @@ live.nbs.cn:80
 148.135.93.213:80
 wouu.net:9977
 tv-trtworld.live.trt.com.tr:443
+rt-srb.rttv.com:443
+rt-rtd.rttv.com:443
+rt-glb.rttv.com:443
+rt-esp.rttv.com:443
+p.ytelc.com:80
+119.129.172.89:9901
+rt-fra.rttv.com:443
+rt-ger.rttv.com:443
+119.129.172.166:9901
+rt-arb.rttv.com:443
+119.129.172.212:9901
