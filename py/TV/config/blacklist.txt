@@ -123,3 +123,5 @@ livestream-bt.nmtv.cn:443
 hkstv.tv:443
 59.35.185.47:8188
 101.66.198.115:9901
+stream1.freetv.fun:443
+182.114.49.100:9901
