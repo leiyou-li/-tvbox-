@@ -126,3 +126,7 @@ hkstv.tv:443
 stream1.freetv.fun:443
 182.114.49.100:9901
 epg.pw:443
+txmov2.a.kwimgs.com:80
+221.13.235.98:9901
+www.goodiptv.club:80
+goodiptv.club:443
