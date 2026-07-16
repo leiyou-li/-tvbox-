@@ -36,3 +36,6 @@ dxtx.hntv.tv
 27.12.12.183
 60.10.139.113
 120.211.62.180
+183.129.255.66
+bp-resource-dfl.bestv.cn
+flvalipull2mgsplive.miguvideo.com
