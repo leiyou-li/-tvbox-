@@ -39,3 +39,6 @@ dxtx.hntv.tv
 183.129.255.66
 bp-resource-dfl.bestv.cn
 flvalipull2mgsplive.miguvideo.com
+epg.pw
+223.247.25.207
+110.154.192.66
