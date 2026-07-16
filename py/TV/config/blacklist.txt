@@ -128,3 +128,4 @@ gslbmgsplive.miguvideo.com:80
 182.127.153.119:1234
 1.197.250.235:9901
 101.6.130.52:1234
+l.cztvcloud.com:80
