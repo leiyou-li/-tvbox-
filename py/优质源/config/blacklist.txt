@@ -42,3 +42,6 @@ flvalipull2mgsplive.miguvideo.com
 epg.pw
 223.247.25.207
 110.154.192.66
+14.153.176.108
+mgsp-ali2.live.miguvideo.com
+182.127.153.119
