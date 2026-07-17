@@ -153,3 +153,5 @@ vip1.xinketongxun.fun:8082
 222.169.85.8:9901
 202.105.239.77:8188
 bp-resource-dfl.bestv.cn:443
+www.cdnstv.com:6398
+live.ottiptv.cc:443
