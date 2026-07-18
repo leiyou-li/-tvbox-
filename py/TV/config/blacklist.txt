@@ -140,3 +140,4 @@ www.negative.top:50000
 115.48.160.82:9901
 221.13.235.114:9901
 hls.ningxiahuangheyun.com:443
+l.cztvcloud.com:80
