@@ -128,3 +128,6 @@ live.ottiptv.cc:443
 bp-resource-dfl.bestv.cn:80
 183.236.43.98:4013
 bp-resource-dfl.bestv.cn:443
+27.12.12.189:1234
+183.222.15.202:4321
+p.ytelc.com:80
