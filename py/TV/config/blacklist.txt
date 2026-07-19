@@ -102,3 +102,7 @@ vip1.xinketongxun.fun:8082
 gdcucc.v1.mk:443
 live.tvfix.org:443
 epg.pw:443
+222.214.208.34:59901
+stream1.freetv.fun:443
+59.35.185.47:8188
+218.13.170.98:9901
