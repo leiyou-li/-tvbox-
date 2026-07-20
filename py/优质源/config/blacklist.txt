@@ -34,3 +34,5 @@ flvhspull2mgsplive.miguvideo.com
 183.129.255.66
 59.39.89.130
 153.0.171.163
+hlsal-ldvt.qing.mgtv.com
+mgsp-hs2.live.miguvideo.com
