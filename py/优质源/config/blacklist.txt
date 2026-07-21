@@ -38,3 +38,8 @@ hlsal-ldvt.qing.mgtv.com
 mgsp-hs2.live.miguvideo.com
 jwcdnqx.hebyun.com.cn
 epg.pw
+1.24.39.180
+jsv-live-play.sfccn.com
+event.pull.hebtv.com
+58.56.162.102
+111.8.224.6
