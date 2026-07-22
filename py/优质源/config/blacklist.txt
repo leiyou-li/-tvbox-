@@ -45,3 +45,6 @@ event.pull.hebtv.com
 111.8.224.6
 www.negative.top
 bp-resource-dfl.bestv.cn
+101.66.194.177
+stream.thmz.com
+183.223.157.33
