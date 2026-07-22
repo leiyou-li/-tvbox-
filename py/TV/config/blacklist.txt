@@ -148,3 +148,6 @@ v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com:443
 ali.hlspull.yximgs.com:80
 221.13.235.177:9901
 106.111.244.12:58099
+221.13.234.61:9901
+mgsp-ali2.live.miguvideo.com:8088
+221.193.168.126:9901
