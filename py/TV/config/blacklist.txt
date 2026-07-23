@@ -113,3 +113,6 @@ event.pull.hebtv.com:443
 live.jinchuanrmt.com:90
 101.66.194.150:9901
 p.ytelc.com:80
+live.tvfix.org:443
+hls.ningxiahuangheyun.com:443
+47.104.178.59:3566
