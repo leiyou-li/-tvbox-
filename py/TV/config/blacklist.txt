@@ -123,3 +123,4 @@ hls.ningxiahuangheyun.com:443
 116.236.204.18:1234
 tmpstream.hyrtv.cn:80
 218.206.193.218:8888
+ali.hlspull.yximgs.com:80
