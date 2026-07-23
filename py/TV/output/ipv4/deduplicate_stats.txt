@@ -1,7 +1,7 @@
 去重统计报告
-生成时间: 2026-07-23 19:07:35
+生成时间: 2026-07-23 21:00:54
 IP类型: IPV4
-频道数量: 977
-唯一URL数量: 2406
+频道数量: 653
+唯一URL数量: 1396
 TXT文件: py/TV/output/ipv4/result.txt
 M3U文件: py/TV/output/ipv4/result.m3u
