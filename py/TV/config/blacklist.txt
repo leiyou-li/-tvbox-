@@ -108,3 +108,8 @@ mgsp-ali2.live.miguvideo.com:8088
 222.169.85.8:9901
 59.35.185.47:8188
 event.pull.hebtv.com:443
+101.66.194.177:9901
+101.66.195.140:9901
+live.jinchuanrmt.com:90
+101.66.194.150:9901
+p.ytelc.com:80
