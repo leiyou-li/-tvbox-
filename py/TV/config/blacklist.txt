@@ -140,3 +140,4 @@ epg.pw:443
 live.ottiptv.cc:443
 111.231.6.102:1234
 182.114.48.213:9901
+liveout.xntv.tv:443
