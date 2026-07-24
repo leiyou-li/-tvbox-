@@ -128,3 +128,9 @@ ali.hlspull.yximgs.com:80
 221.193.168.90:9901
 124.116.183.146:9901
 118.193.115.2:9901
+live.chinacert.cftest5.cn:443
+jsmov2.a.yximgs.com:80
+r.jdshipin.com:80
+live.264788.xyz:443
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
