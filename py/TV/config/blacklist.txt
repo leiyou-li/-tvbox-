@@ -135,3 +135,5 @@ live.264788.xyz:443
 bp-resource-dfl.bestv.cn:80
 bp-resource-dfl.bestv.cn:443
 my9.ltd:443
+stream1.freetv.fun:443
+epg.pw:443
