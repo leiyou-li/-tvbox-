@@ -104,3 +104,15 @@ epg.pw:443
 utv1.hqtvzb.com:9999
 vip1.xinketongxun.fun:8082
 222.134.245.16:9901
+live.jinchuanrmt.com:90
+gslbmgsplive.miguvideo.com:80
+119.88.243.98:17231
+116.236.204.18:1234
+mgsp-ali2.live.miguvideo.com:8088
+stream1.freetv.fun:443
+182.127.153.79:1234
+60.168.105.138:5008
+d1t.alwaysdata.net:443
+182.61.15.163:80
+42.94.210.57:7788
+27.12.12.189:1234
