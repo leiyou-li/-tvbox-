@@ -127,3 +127,8 @@ p2.vzan.com:80
 222.128.26.62:4001
 tmpstream.hyrtv.cn:80
 183.236.43.98:4013
+www.lwfz.fun:8800
+live.tvfix.org:443
+221.13.235.237:9901
+175.155.106.72:89
+ali.hlspull.yximgs.com:80
