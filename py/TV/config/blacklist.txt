@@ -94,3 +94,5 @@ tmpstream.hyrtv.cn:80
 dminnvll.cdn.mangomolo.com:80
 erp.giihgtidg.com:8080
 20240504.shunyue1809.com:6321
+116.233.67.80:8899
+stream1.freetv.fun:443
