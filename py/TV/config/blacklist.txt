@@ -116,3 +116,8 @@ epg.pw:443
 182.61.15.163:80
 d1t.alwaysdata.net:443
 116.236.204.18:1234
+vip1.xinketongxun.fun:8082
+ali.hlspull.yximgs.com:80
+106.111.244.12:58099
+jsmov2.a.yximgs.com:80
+dxtx.hntv.tv:443
