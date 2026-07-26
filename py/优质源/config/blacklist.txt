@@ -31,3 +31,6 @@ d1t.alwaysdata.net
 epg.pw
 stream.thmz.com
 lbds.us.ci
+198.204.240.250
+38.75.136.137
+69.30.245.50
