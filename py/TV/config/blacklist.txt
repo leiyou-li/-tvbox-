@@ -97,3 +97,8 @@ l.cztvcloud.com:80
 r.jdshipin.com:80
 116.233.67.80:8899
 59.35.185.47:8188
+gslbmgsplive.miguvideo.com:80
+d1t.alwaysdata.net:443
+lmt.scqstv.com:80
+cdn.jdshipin.com:8880
+91.247.68.229:8000
