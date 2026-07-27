@@ -92,3 +92,8 @@ iot-mqqt.111yao.cn:8080
 litv.zapi.us.kg:80
 dminnvll.cdn.mangomolo.com:80
 hdl-vip-ws.qf.56.com:443
+txmov2.a.kwimgs.com:443
+l.cztvcloud.com:80
+r.jdshipin.com:80
+116.233.67.80:8899
+59.35.185.47:8188
