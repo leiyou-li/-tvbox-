@@ -108,3 +108,6 @@ tencentplay.gztv.com:443
 123.160.235.136:9901
 115.48.160.78:9901
 221.193.168.128:9901
+bp-resource-dfl.bestv.cn:80
+vip1.xinketongxun.fun:8082
+183.220.20.17:4321
