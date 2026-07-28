@@ -38,3 +38,5 @@ l.cztvcloud.com
 223.78.65.165
 61.178.227.57
 183.223.157.33
+bp-resource-dfl.bestv.cn
+zmgd.zyrnet.com
