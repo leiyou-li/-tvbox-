@@ -128,3 +128,6 @@ bp-resource-dfl.bestv.cn:443
 stream.sun0769.com:443
 vip1.xinketongxun.fun:8082
 61.136.172.236:9901
+bp-resource-dfl.bestv.cn:80
+tmpstream.hyrtv.cn:80
+59.35.185.47:8188
