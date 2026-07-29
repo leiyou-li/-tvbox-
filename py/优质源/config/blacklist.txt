@@ -40,3 +40,7 @@ l.cztvcloud.com
 183.223.157.33
 bp-resource-dfl.bestv.cn
 zmgd.zyrnet.com
+60.168.105.138
+111.4.59.41
+45.192.97.170
+110.154.192.36
