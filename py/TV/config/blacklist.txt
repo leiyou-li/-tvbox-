@@ -137,3 +137,5 @@ tmpstream.hyrtv.cn:80
 www.cdnstv.com:6398
 218.206.193.218:8888
 rt-fra.rttv.com:443
+hkstv.tv:443
+221.193.168.135:9901
