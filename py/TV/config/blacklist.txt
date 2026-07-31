@@ -98,3 +98,10 @@ livetv.skycf.eu.org:80
 115.48.160.106:9901
 120.202.73.48:8888
 ali.hlspull.yximgs.com:80
+vip1.xinketongxun.fun:8082
+bp-resource-dfl.bestv.cn:80
+49.234.31.101:7033
+bp-resource-dfl.bestv.cn:443
+live.tvfix.org:443
+101.66.194.121:9901
+101.66.198.66:9901
