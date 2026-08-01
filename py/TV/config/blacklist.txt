@@ -120,3 +120,7 @@ p2.bdstatic.com:443
 116.147.108.169:7788
 cssbyd.imwork.net:8082
 srs.iyb983.cn:443
+t.061899.xyz:80
+8.135.27.147:1234
+www.goodiptv.club:80
+l.cztvcloud.com:80
