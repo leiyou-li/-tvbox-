@@ -113,3 +113,9 @@ stream.sun0769.com:443
 59.35.185.47:8188
 dxtx.hntv.tv:443
 shcm-stream-cf1.stream.264788.xyz:443
+ali.hlspull.yximgs.com:80
+49.234.31.101:7040
+49.234.31.101:7033
+t.061899.xyz:80
+my9.ltd:443
+101.35.240.114:88
