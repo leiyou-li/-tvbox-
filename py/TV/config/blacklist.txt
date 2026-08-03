@@ -138,3 +138,5 @@ bp-resource-dfl.bestv.cn:80
 bp-resource-dfl.bestv.cn:443
 183.129.255.66:8480
 123.163.114.121:9901
+221.193.168.40:9901
+cdn9.163189.xyz:80
