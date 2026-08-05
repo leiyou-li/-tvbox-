@@ -163,3 +163,4 @@ nn.7x9d.cn:80
 183.223.157.33:9901
 182.114.49.15:9901
 m3u8.channel.dzsm.com:443
+pull-hls-f1.douyincdn.com:80
