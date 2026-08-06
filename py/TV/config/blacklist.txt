@@ -117,3 +117,7 @@ bp-resource-dfl.bestv.cn:443
 ali-xwl.cztv.com:80
 my9.ltd:443
 61.178.227.57:9901
+rt-ger.rttv.com:443
+livestream-bt.nmtv.cn:443
+123.118.55.165:45237
+ali-m-l.cztv.com:443
