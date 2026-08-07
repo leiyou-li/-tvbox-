@@ -133,3 +133,6 @@ tvfile.swrmt.com:80
 www.goodiptv.club:80
 goodiptv.club:443
 218.13.170.98:9901
+182.114.49.64:9901
+gmxw.7766.org:808
+www.lwfz.fun:8800
