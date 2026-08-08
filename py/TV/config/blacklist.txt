@@ -126,3 +126,4 @@ hls.ningxiahuangheyun.com:443
 bztv.tvbus.cc:8081
 bp-resource-dfl.bestv.cn:80
 bp-resource-dfl.bestv.cn:443
+stream1.freetv.fun:443
