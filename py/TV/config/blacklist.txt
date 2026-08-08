@@ -119,3 +119,6 @@ d1t.alwaysdata.net:443
 hlscdn.liangtv.cn:443
 123.118.55.165:45237
 49.234.31.101:7033
+m3u8.channel.dzsm.com:443
+txmov2.a.kwimgs.com:80
+hls.ningxiahuangheyun.com:443
