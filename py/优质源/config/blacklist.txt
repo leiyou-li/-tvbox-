@@ -30,3 +30,5 @@ goodiptv.club
 lbds.us.ci
 27.12.12.100
 epg.pw
+153.0.171.163
+111.4.59.41
