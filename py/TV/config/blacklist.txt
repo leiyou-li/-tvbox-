@@ -115,3 +115,8 @@ m3u8.channel.dzsm.com:443
 123.118.55.165:45237
 www.lwfz.fun:8800
 59.39.89.130:60901
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+139.227.21.22:9901
+112.123.243.37:50085
+49.234.31.101:7040
