@@ -124,3 +124,4 @@ bp-resource-dfl.bestv.cn:80
 p2.bdstatic.com:443
 101.66.199.65:9901
 101.66.199.253:9901
+www.goodiptv.club:80
