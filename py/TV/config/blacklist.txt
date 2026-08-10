@@ -119,3 +119,6 @@ bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
 ali.hlspull.yximgs.com:80
 111.8.224.6:9999
+121.19.134.101:808
+222.169.85.8:9901
+www.cdnstv.com:6398
