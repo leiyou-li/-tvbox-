@@ -172,3 +172,5 @@ jwplay.hebyun.com.cn:80
 gctxyc.liveplay.myqcloud.com:443
 pulltv2.wanfudaluye.com:443
 222.130.32.96:7788
+118.193.115.2:9901
+www.lwfz.fun:8800
