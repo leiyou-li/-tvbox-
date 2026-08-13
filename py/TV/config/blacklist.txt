@@ -111,3 +111,11 @@ tv-trtworld.live.trt.com.tr:443
 119.6.59.216:60033
 143.244.60.30:80
 vip.lqcc.xyz:35455
+223.78.65.165:9901
+218.13.138.139:59901
+live.jinchuanrmt.com:90
+123.118.55.165:45237
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
+222.169.85.8:9901
+123.118.53.84:45237
