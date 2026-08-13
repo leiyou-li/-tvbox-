@@ -38,3 +38,5 @@ bp-resource-dfl.bestv.cn
 111.228.4.117
 111.9.163.109
 d1t.alwaysdata.net
+123.118.53.84
+218.13.138.139
