@@ -109,3 +109,8 @@ iot-mqqt.111yao.cn:8080
 n24-cdn-live.ntv.co.jp:443
 119.6.59.216:60033
 d12a2vxqkkh1bo.cloudfront.net:443
+221.193.168.60:9901
+live.tvfix.org:443
+183.185.66.248:9003
+live.eac-news.com:443
+tpc.x3322.net:9901
