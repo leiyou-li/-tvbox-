@@ -138,3 +138,7 @@ live.eac-news.com:443
 112.123.243.37:50085
 ali.hlspull.yximgs.com:80
 101.66.194.231:9901
+113.26.202.52:1299
+gcwbndali.v.myalicdn.com:443
+my9.ltd:443
+101.66.198.174:9901
