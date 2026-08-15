@@ -146,3 +146,5 @@ gcalic.v.myalicdn.com:443
 111.8.242.127:9999
 tvfile.swrmt.com:80
 ali-m-l.cztv.com:80
+rt-glb.rttv.com:443
+rt-rtd.rttv.com:443
