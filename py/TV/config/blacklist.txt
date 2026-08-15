@@ -140,3 +140,6 @@ bp-resource-dfl.bestv.cn:80
 47.104.178.59:3566
 183.236.43.98:4013
 123.118.53.84:45237
+ali.hlspull.yximgs.com:80
+gcalic.v.myalicdn.com:443
+106.111.244.12:58099
