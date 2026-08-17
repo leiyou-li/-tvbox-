@@ -128,3 +128,5 @@ live.pzhkai.com:80
 118.193.115.2:9901
 ali.hlspull.yximgs.com:80
 live.tvfix.org:443
+120.238.84.45:9901
+bp-resource-dfl.bestv.cn:443
