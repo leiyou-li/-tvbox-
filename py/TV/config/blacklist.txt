@@ -127,3 +127,4 @@ live.pzhkai.com:80
 123.118.55.165:45237
 118.193.115.2:9901
 ali.hlspull.yximgs.com:80
+live.tvfix.org:443
