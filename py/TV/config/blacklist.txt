@@ -117,3 +117,5 @@ bp-livetytv.bestv.cn:80
 lmt.scqstv.com:80
 222.169.85.8:9901
 live.tvfix.org:443
+ali.hlspull.yximgs.com:80
+182.114.48.167:9901
