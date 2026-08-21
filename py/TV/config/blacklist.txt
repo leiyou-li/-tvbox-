@@ -100,3 +100,7 @@ tpc.x3322.net:9901
 101.66.199.234:9901
 111.59.24.227:8181
 113.65.7.6:7088
+gslbmgsplive.miguvideo.com:80
+d1t.alwaysdata.net:443
+dxtx.hntv.tv:443
+49.234.31.101:7040
