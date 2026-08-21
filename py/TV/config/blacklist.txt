@@ -128,3 +128,5 @@ m3u8.channel.dzsm.com:443
 p.ytelc.com:80
 223.247.25.235:1234
 42.94.210.16:7788
+222.169.85.8:9901
+ali.hlspull.yximgs.com:80
