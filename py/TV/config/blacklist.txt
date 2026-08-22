@@ -93,3 +93,7 @@ dminnvll.cdn.mangomolo.com:80
 222.241.154.37:9901
 rrs01.hw.gmcc.net:8088
 live.nbs.cn:80
+live.tvfix.org:443
+221.193.168.249:9901
+218.81.49.34:10010
+123.118.53.84:45237
