@@ -101,3 +101,16 @@ bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
 125.42.150.210:9901
 221.13.235.59:9901
+gslbmgsplive.miguvideo.com:80
+110.154.192.81:7788
+live.tvfix.org:443
+42.94.210.16:7788
+russian-livews.cgtn.com:80
+116.52.173.151:1234
+27.12.12.101:1234
+116.236.204.18:1234
+119.39.9.8:9901
+tpc.x3322.net:9901
+113.120.243.10:7788
+d1t.alwaysdata.net:443
+223.247.25.235:1234
