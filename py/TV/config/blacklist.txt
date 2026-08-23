@@ -110,3 +110,7 @@ gslbmgsplive.miguvideo.com:80
 113.120.243.10:7788
 ali.hlspull.yximgs.com:80
 112.115.49.181:4915
+222.169.85.8:9901
+bp-resource-dfl.bestv.cn:80
+124.165.232.26:8083
+bp-resource-dfl.bestv.cn:443
