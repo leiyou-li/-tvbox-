@@ -93,3 +93,11 @@ live.dameijunlian.cn:80
 channel.wcrmt.cn:80
 119.32.12.17:2901
 mytv.cdn.com.mp:80
+bp-resource-dfl.bestv.cn:443
+182.114.49.159:9901
+222.134.245.16:9901
+221.13.234.215:9901
+125.42.148.209:9901
+bp-resource-dfl.bestv.cn:80
+125.42.150.210:9901
+221.13.235.59:9901
