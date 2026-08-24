@@ -114,3 +114,7 @@ tpc.x3322.net:9901
 113.120.243.10:7788
 d1t.alwaysdata.net:443
 223.247.25.235:1234
+epg.pw:443
+ali.hlspull.yximgs.com:80
+stream1.freetv.fun:443
+116.230.54.58:33988
