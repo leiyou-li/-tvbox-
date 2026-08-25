@@ -97,3 +97,7 @@ e2.woc.iiiya.cn:28888
 106.53.99.30:80
 1.94.31.214:35455
 218.13.14.6:60050
+221.193.168.93:9901
+gslbmgsplive.miguvideo.com:80
+d1t.alwaysdata.net:443
+ali.hlspull.yximgs.com:80
