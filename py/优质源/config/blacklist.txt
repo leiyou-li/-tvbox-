@@ -12,3 +12,5 @@ bp-resource-dfl.bestv.cn
 104.152.209.49
 123.118.53.84
 d1t.alwaysdata.net
+goodiptv.club
+113.90.154.189
