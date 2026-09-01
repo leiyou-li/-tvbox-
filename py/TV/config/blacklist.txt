@@ -198,3 +198,5 @@ cdn9.163189.xyz:80
 dassby.qqff.top:99
 182.114.49.148:9901
 hls.gstv.com.cn:443
+59.110.175.70:10000
+www.goodiptv.club:80
