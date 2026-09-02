@@ -200,3 +200,4 @@ dassby.qqff.top:99
 hls.gstv.com.cn:443
 59.110.175.70:10000
 www.goodiptv.club:80
+123.130.84.106:8154
