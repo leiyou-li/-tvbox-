@@ -16,3 +16,4 @@ bp-resource-dfl.bestv.cn
 222.169.85.8
 120.40.39.246
 221.226.51.220
+r.jdshipin.com
