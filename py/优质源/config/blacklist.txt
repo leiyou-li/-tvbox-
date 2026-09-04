@@ -19,3 +19,4 @@ bp-resource-dfl.bestv.cn
 r.jdshipin.com
 live.chinacert.cftest5.cn
 182.150.23.74
+gcalic.v.myalicdn.com
