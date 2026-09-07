@@ -9,3 +9,4 @@ bp-resource-dfl.bestv.cn
 d1t.alwaysdata.net
 event.pull.hebtv.com
 222.169.85.8
+122.224.58.42
