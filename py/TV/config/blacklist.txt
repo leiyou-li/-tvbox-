@@ -278,3 +278,4 @@ ali-m-l.cztv.com:80
 119.129.172.239:9901
 webcast.hkstv.tv:80
 222.92.158.109:9889
+cdn-4.pishow.tv:443
