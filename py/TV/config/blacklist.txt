@@ -290,3 +290,4 @@ rt-doc.rttv.com:443
 111.231.6.102:1234
 27.12.12.92:1234
 play.yunxya.com:443
+r.jdshipin.com:80
