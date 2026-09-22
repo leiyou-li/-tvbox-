@@ -13,3 +13,4 @@ event.pull.hebtv.com
 lbds.us.ci
 221.7.175.154
 153.0.171.163
+bp-resource-dfl.bestv.cn
