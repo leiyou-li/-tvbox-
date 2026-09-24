@@ -376,3 +376,10 @@ jsmov2.a.yximgs.com:80
 rbmn-live.akamaized.net:80
 153.0.171.163:9901
 182.114.49.153:9901
+rt-glb.rttv.com:443
+rt-fra.rttv.com:443
+rt-arb.rttv.com:443
+119.129.172.128:9901
+rt-ger.rttv.com:443
+rt-esp.rttv.com:443
+rt-rtd.rttv.com:443
