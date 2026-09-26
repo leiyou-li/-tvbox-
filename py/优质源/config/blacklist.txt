@@ -15,3 +15,4 @@ bp-resource-dfl.bestv.cn
 tvcdn.stream3.hndt.com
 112.30.73.119
 gcalic.v.myalicdn.com
+112.27.5.218
