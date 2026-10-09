@@ -7,3 +7,4 @@ bp-resource-dfl.bestv.cn
 222.169.85.8
 lbds.us.ci
 d1t.alwaysdata.net
+tvcdn.stream3.hndt.com
