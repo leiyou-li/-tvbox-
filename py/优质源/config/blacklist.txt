@@ -6,3 +6,7 @@ lbds.us.ci
 bp-resource-dfl.bestv.cn
 222.169.85.8
 hkstv.tv
+173.208.212.130
+bztv.tvbus.cc
+d1t.alwaysdata.net
+204.12.221.218
