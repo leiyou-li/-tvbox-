@@ -10,3 +10,4 @@ hkstv.tv
 bztv.tvbus.cc
 d1t.alwaysdata.net
 204.12.221.218
+198.204.228.26
