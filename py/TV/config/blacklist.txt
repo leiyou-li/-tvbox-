@@ -513,3 +513,4 @@ p2.bdstatic.com:443
 198.204.228.26:80
 183.10.180.203:9901
 119.129.172.98:9901
+pili-live-hls-sjxgz2024.sobeylive.com:443
