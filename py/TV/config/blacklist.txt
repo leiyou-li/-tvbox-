@@ -516,3 +516,5 @@ p2.bdstatic.com:443
 pili-live-hls-sjxgz2024.sobeylive.com:443
 59.39.89.130:60901
 112.103.141.175:1234
+182.114.49.155:9901
+utv1.hqtvzb.com:9999
