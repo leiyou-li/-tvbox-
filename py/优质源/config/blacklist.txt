@@ -8,3 +8,4 @@ idclive.hljtv.com
 111.59.139.82
 bp-resource-dfl.bestv.cn
 lbds.us.ci
+113.25.252.226
