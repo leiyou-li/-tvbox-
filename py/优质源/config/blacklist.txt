@@ -9,3 +9,4 @@ bp-resource-dfl.bestv.cn
 118.122.144.115
 epg.pw
 111.59.139.82
+d1t.alwaysdata.net
