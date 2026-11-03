@@ -12,3 +12,4 @@ epg.pw
 d1t.alwaysdata.net
 tvcdn.stream3.hndt.com
 153.0.171.163
+113.25.252.226
