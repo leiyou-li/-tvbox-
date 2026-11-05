@@ -21,3 +21,5 @@ genglei.8866.org
 119.125.131.73
 bp-resource-dfl.bestv.cn
 183.129.255.66
+207.56.13.146
+live.wjyanghu.com
