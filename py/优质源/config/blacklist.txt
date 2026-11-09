@@ -38,3 +38,5 @@ lbds.us.ci
 tvcdn.stream3.hndt.com
 epg.pw
 xiangxiws.vip
+120.238.84.45
+222.128.55.152
