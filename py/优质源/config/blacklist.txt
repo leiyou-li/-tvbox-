@@ -9,3 +9,4 @@ live.ottiptv.cc
 113.98.11.46
 59.39.89.130
 bp-resource-dfl.bestv.cn
+112.85.93.7
