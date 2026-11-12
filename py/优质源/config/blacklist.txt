@@ -11,3 +11,6 @@ live.ottiptv.cc
 bp-resource-dfl.bestv.cn
 112.85.93.7
 27.22.35.13
+207.56.13.146
+hwapi.yntv.net
+bztv.tvbus.cc
