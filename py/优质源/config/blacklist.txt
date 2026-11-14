@@ -18,3 +18,5 @@ bztv.tvbus.cc
 119.39.9.8
 d1t.alwaysdata.net
 nn.7x9d.cn
+107.150.60.122
+112.85.93.3
