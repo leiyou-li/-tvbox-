@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",🔒 CCTV2 | 282.4KB/s
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",🔒 CCTV2 | 358.8KB/s
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",🌐 CCTV3 | 232.4KB/s
 http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
@@ -9,7 +9,7 @@ http://113.25.252.226:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=
 http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",🌐 CCTV11 | 208.0KB/s
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",🌐 CCTV12 | 204.1KB/s
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",🌐 CCTV12 | 208.0KB/s
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",🌐 CCTV13 | 422.9KB/s
 http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -17,9 +17,9 @@ http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",🔒 CCTV14 | 319.3KB/s
 https://event.pull.hebtv.com/jishi/cp2.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",🌐 CCTV15 | 204.1KB/s
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",🌐 CCTV15 | 208.0KB/s
 http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",🌐 CCTV15 | 189.5KB/s
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",🌐 CCTV15 | 208.0KB/s
 http://173.208.212.130:8181/1080p/cctv15.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",🌐 浙江卫视 | 344.7KB/s
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -31,7 +31,7 @@ http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",🌐 深圳卫视 | 422.9KB/s
 http://120.238.94.82:9901/tsfile/live/1065_1.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",🔒 广东卫视 | 32952.6KB/s
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",🔒 广东卫视 | 21994.3KB/s
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",🌐 广东卫视 | 433.6KB/s
 http://120.238.94.82:9901/tsfile/live/1009_1.m3u8
@@ -40,15 +40,15 @@ https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",🌐 河北卫视 | 383.8KB/s
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",🌐 河南卫视 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d28cf47b9310a6bd2613a5ccdbe37e8a&wsTime=1795154612
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",🌐 内蒙古卫视 | 324.2KB/s
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=037a12ad595a8a3bb0fd46d710617ebd&wsTime=1795212253
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",🌐 内蒙古卫视 | 323.2KB/s
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",🌐 山西卫视 | 2029.3KB/s
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",🌐 山西卫视 | 2015.6KB/s
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="卫视频道",🔒 安多卫视 | 265.6KB/s
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="卫视频道",🔒 安多卫视 | 266.6KB/s
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-name="国学频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/国学频道.png" group-title="数字频道",🌐 国学频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=892329912b331a872e448f62661df711&wsTime=1795154612
+http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=ebd1540473ecedee52163c9fec66fcbe&wsTime=1795212253
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="☘️北京市",🌐 北京卫视4K | 224.6KB/s
 http://120.211.62.180:8000/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="☘️上海市",🌐 东方卫视4K | 832.0KB/s
@@ -60,32 +60,32 @@ http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园频道.png" group-title="☘️河南省",🔒 梨园频道 | 644.5KB/s
 https://d1t.alwaysdata.net/mgvt/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93
 #EXTINF:-1 tvg-name="河南新闻频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南新闻频道.png" group-title="☘️河南省",🌐 河南新闻频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=fc2660b5774d3fc60e14b5c4533b0199&wsTime=1795154612
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=d8de65199c1073391fa07633404d8894&wsTime=1795212253
 #EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南电视剧频道.png" group-title="☘️河南省",🌐 河南电视剧频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=1aa9704e93cd17e79916e357d03e02a4&wsTime=1795154612
-#EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南公共频道.png" group-title="☘️河南省",🌐 河南公共频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=99c9123d723ba8abb41c108c0a5b0f84&wsTime=1795154612
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=6762661471e97bdcc341e696ecc524e0&wsTime=1795212253
+#EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南公共频道.png" group-title="☘️河南省",🌐 河南公共频道 | 348.6KB/s
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=9da85417a32eb53e225644231ff10d72&wsTime=1795212253
 #EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市频道.png" group-title="☘️河南省",🌐 河南都市频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=fe259149a188ff095b5ac931658d1618&wsTime=1795154612
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=a2da743522e795c4e699c8e72806ecd6&wsTime=1795212253
 #EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生频道.png" group-title="☘️河南省",🌐 河南民生频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=490b3351f2e67d0d6d9470f29996b923&wsTime=1795154612
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=e421ae443121a6c2f42ec36402a385dd&wsTime=1795212253
 #EXTINF:-1 tvg-name="河南法治频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南法治频道.png" group-title="☘️河南省",🌐 河南法治频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=035e8d1c4d5c7981329144c5e856aaa0&wsTime=1795154612
-#EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南乡村.png" group-title="☘️河南省",🌐 河南乡村 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=1fab26e155302b1ab48c053fb285ef4b&wsTime=1795154612
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4K.png" group-title="☘️湖南省",🔒 湖南卫视4K | 3272.1KB/s
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=a857788b5d3208a3855a6639c8a7e04b&wsTime=1795212253
+#EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南乡村.png" group-title="☘️河南省",🌐 河南乡村 | 348.6KB/s
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=4859e6f54ec1fbdc6f7214f13cbbd152&wsTime=1795212253
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4K.png" group-title="☘️湖南省",🔒 湖南卫视4K | 1005.5KB/s
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="☘️吉林省",🔒 延边卫视 | 514.6KB/s
-https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="☘️吉林省",🔒 延边卫视 | 514.6KB/s
 https://srs.iyb983.cn:443/video/CYS/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="☘️吉林省",🔒 延边卫视 | 514.6KB/s
+https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="☘️新疆",🌐 新疆卫视 | 325.2KB/s
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-#EXTINF:-1 tvg-name="4K视频[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/4K视频[刷新就是新内容].png" group-title="其他",🌐 4K视频[刷新就是新内容] | 1817.0KB/s
+#EXTINF:-1 tvg-name="4K视频[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/4K视频[刷新就是新内容].png" group-title="其他",🌐 4K视频[刷新就是新内容] | 7383.4KB/s
 http://xjj1.716888.xyz/fenlei/4k/4k.php
-#EXTINF:-1 tvg-name="DJ舞曲[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DJ舞曲[刷新就是新内容].png" group-title="其他",🌐 DJ舞曲[刷新就是新内容] | 2657.3KB/s
+#EXTINF:-1 tvg-name="DJ舞曲[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DJ舞曲[刷新就是新内容].png" group-title="其他",🌐 DJ舞曲[刷新就是新内容] | 18461.3KB/s
 http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
-#EXTINF:-1 tvg-name="欢腾购物" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/欢腾购物.png" group-title="其他",🌐 欢腾购物 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=79257d1ade75a9dcc7e0472fe8df152f&wsTime=1795154612
-#EXTINF:-1 tvg-name="网络热曲[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/网络热曲[刷新就是新内容].png" group-title="其他",🔒 网络热曲[刷新就是新内容] | 132432.1KB/s
+#EXTINF:-1 tvg-name="欢腾购物" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/欢腾购物.png" group-title="其他",🌐 欢腾购物 | 348.6KB/s
+http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=001a6bf100dd569e5485c9bb43aa48d9&wsTime=1795212253
+#EXTINF:-1 tvg-name="网络热曲[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/网络热曲[刷新就是新内容].png" group-title="其他",🔒 网络热曲[刷新就是新内容] | 12833.8KB/s
 https://188sp.711888.xyz/188/video.php
