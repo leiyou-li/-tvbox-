@@ -1,325 +1,91 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",🌐 CCTV1 | 196.3KB/s
-http://118.122.144.115:8888/newlive/live/hls/1/live.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",🌐 CCTV2 | 422.9KB/s
-http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",🔒 CCTV2 | 319.3KB/s
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",🔒 CCTV2 | 282.4KB/s
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",🌐 CCTV4 | 422.9KB/s
-http://113.25.252.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",🌐 CCTV3 | 232.4KB/s
+http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",🌐 CCTV7 | 422.9KB/s
 http://113.25.252.226:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",🌐 CCTV9 | 422.9KB/s
-http://113.25.252.226:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",🌐 CCTV10 | 422.9KB/s
 http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",🌐 CCTV10 | 204.1KB/s
-http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",🌐 CCTV11 | 208.0KB/s
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",🌐 CCTV12 | 204.1KB/s
+http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",🌐 CCTV13 | 422.9KB/s
 http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",🔒 CCTV13 | 319.3KB/s
 https://event.pull.hebtv.com/jishi/cp1.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",🌐 CCTV14 | 423.8KB/s
-http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",🌐 CCTV14 | 422.9KB/s
-http://113.25.252.226:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",🔒 CCTV14 | 319.3KB/s
 https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",🌐 CCTV15 | 204.1KB/s
 http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",🌐 CCTV15 | 196.3KB/s
-http://118.122.144.115:8888/newlive/live/hls/16/live.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",🌐 湖南卫视 | 196.3KB/s
-http://118.122.144.115:8888/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",🌐 CCTV15 | 189.5KB/s
+http://173.208.212.130:8181/1080p/cctv15.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",🌐 浙江卫视 | 344.7KB/s
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",🌐 江苏卫视 | 196.3KB/s
-http://118.122.144.115:8888/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",🌐 东方卫视 | 831.1KB/s
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",🌐 江苏卫视 | 232.4KB/s
+http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",🌐 东南卫视 | 498.0KB/s
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",🔒 广东卫视 | 46203.1KB/s
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",🌐 深圳卫视 | 422.9KB/s
+http://120.238.94.82:9901/tsfile/live/1065_1.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",🔒 广东卫视 | 32952.6KB/s
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",🌐 广东卫视 | 433.6KB/s
+http://120.238.94.82:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",🔒 广西卫视 | 179.7KB/s
-https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",🌐 贵州卫视 | 232.4KB/s
-http://58.56.162.102:4466/newlive/live/hls/41/live.m3u8
+https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",🌐 河北卫视 | 383.8KB/s
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",🌐 河南卫视 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a35a9d3ac520a494f2e5ee03b10d9123&wsTime=1795125845
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",🌐 江西卫视 | 422.9KB/s
-http://113.25.252.226:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",🌐 吉林卫视 | 433.6KB/s
-http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",🌐 山西卫视 | 2039.1KB/s
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d28cf47b9310a6bd2613a5ccdbe37e8a&wsTime=1795154612
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",🌐 内蒙古卫视 | 324.2KB/s
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",🌐 山西卫视 | 2029.3KB/s
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",🌐 山西卫视 | 428.7KB/s
-http://222.134.245.16:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="卫视频道",🔒 安多卫视 | 265.6KB/s
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/国学频道.png" group-title="数字频道",🌐 国学频道 | 348.6KB/s
-http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=23ed06db36fd3cda5653540cfec31bab&wsTime=1795125845
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/文物宝库.png" group-title="数字频道",🔒 文物宝库 | 280.3KB/s
-https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=6597c36d70a6389e5faa8d72e9988121&wsTime=1795125845
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/武术世界.png" group-title="数字频道",🔒 武术世界 | 280.3KB/s
-https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=e2881444833ea6478dc93bd9339c83e9&wsTime=1795125845
-#EXTINF:-1 tvg-name="电影_周星驰" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_周星驰.png" group-title="☘️轮播台",🔒 电影_周星驰 | 358.2KB/s
-https://lbds.us.ci/11336587
-#EXTINF:-1 tvg-name="电影_英叔" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_英叔.png" group-title="☘️轮播台",🔒 电影_英叔 | 411.7KB/s
-https://lbds.us.ci/11342421
-#EXTINF:-1 tvg-name="电影_周润发" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_周润发.png" group-title="☘️轮播台",🔒 电影_周润发 | 169.7KB/s
-https://lbds.us.ci/11342387
-#EXTINF:-1 tvg-name="电影_甄子丹" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_甄子丹.png" group-title="☘️轮播台",🔒 电影_甄子丹 | 685.1KB/s
-https://lbds.us.ci/11352935
-#EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_王晶.png" group-title="☘️轮播台",🔒 电影_王晶 | 741.8KB/s
-https://lbds.us.ci/11602058
-#EXTINF:-1 tvg-name="电影_沈腾" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_沈腾.png" group-title="☘️轮播台",🔒 电影_沈腾 | 505.6KB/s
-https://lbds.us.ci/11601968
-#EXTINF:-1 tvg-name="电影_黄渤" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_黄渤.png" group-title="☘️轮播台",🔒 电影_黄渤 | 339.7KB/s
-https://lbds.us.ci/11352876
-#EXTINF:-1 tvg-name="电影_强森" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_强森.png" group-title="☘️轮播台",🔒 电影_强森 | 319.9KB/s
-https://lbds.us.ci/21059581
-#EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_漫威.png" group-title="☘️轮播台",🔒 电影_漫威 | 805.7KB/s
-https://lbds.us.ci/11602034
-#EXTINF:-1 tvg-name="电影_宇宙" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_宇宙.png" group-title="☘️轮播台",🔒 电影_宇宙 | 248.6KB/s
-https://lbds.us.ci/11342428
-#EXTINF:-1 tvg-name="电影_怪兽" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_怪兽.png" group-title="☘️轮播台",🔒 电影_怪兽 | 243.6KB/s
-https://lbds.us.ci/21059577
-#EXTINF:-1 tvg-name="电影_武侠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_武侠.png" group-title="☘️轮播台",🔒 电影_武侠 | 340.0KB/s
-https://lbds.us.ci/11342427
-#EXTINF:-1 tvg-name="电影_罪犯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_罪犯.png" group-title="☘️轮播台",🔒 电影_罪犯 | 354.0KB/s
-https://lbds.us.ci/11352962
-#EXTINF:-1 tvg-name="电影_枪战" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_枪战.png" group-title="☘️轮播台",🔒 电影_枪战 | 337.4KB/s
-https://lbds.us.ci/21059579
-#EXTINF:-1 tvg-name="电影_赛车" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_赛车.png" group-title="☘️轮播台",🔒 电影_赛车 | 296.9KB/s
-https://lbds.us.ci/11279247
-#EXTINF:-1 tvg-name="电影_推荐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_推荐.png" group-title="☘️轮播台",🔒 电影_推荐 | 342.2KB/s
-https://lbds.us.ci/11602041
-#EXTINF:-1 tvg-name="电影_热血" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_热血.png" group-title="☘️轮播台",🔒 电影_热血 | 541.7KB/s
-https://lbds.us.ci/11352934
-#EXTINF:-1 tvg-name="电影_盗墓" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_盗墓.png" group-title="☘️轮播台",🔒 电影_盗墓 | 248.1KB/s
-https://lbds.us.ci/21059552
-#EXTINF:-1 tvg-name="电影_贺岁" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_贺岁.png" group-title="☘️轮播台",🔒 电影_贺岁 | 765.5KB/s
-https://lbds.us.ci/11601971
-#EXTINF:-1 tvg-name="电影_玄幻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_玄幻.png" group-title="☘️轮播台",🔒 电影_玄幻 | 243.8KB/s
-https://lbds.us.ci/11342414
-#EXTINF:-1 tvg-name="电影_谍战" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_谍战.png" group-title="☘️轮播台",🔒 电影_谍战 | 307.9KB/s
-https://lbds.us.ci/21059585
-#EXTINF:-1 tvg-name="电影_喜剧" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_喜剧.png" group-title="☘️轮播台",🔒 电影_喜剧 | 358.7KB/s
-https://lbds.us.ci/11352877
-#EXTINF:-1 tvg-name="电影_港片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_港片.png" group-title="☘️轮播台",🔒 电影_港片 | 318.5KB/s
-https://lbds.us.ci/11602043
-#EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_国产.png" group-title="☘️轮播台",🔒 电影_国产 | 1026.8KB/s
-https://lbds.us.ci/11352973
-#EXTINF:-1 tvg-name="电影_洪金宝" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_洪金宝.png" group-title="☘️轮播台",🔒 电影_洪金宝 | 279.2KB/s
-https://lbds.us.ci/11279251
-#EXTINF:-1 tvg-name="电影_梁家辉" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_梁家辉.png" group-title="☘️轮播台",🔒 电影_梁家辉 | 312.2KB/s
-https://lbds.us.ci/11342429
-#EXTINF:-1 tvg-name="电影_许冠英" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_许冠英.png" group-title="☘️轮播台",🔒 电影_许冠英 | 397.7KB/s
-https://lbds.us.ci/11601972
-#EXTINF:-1 tvg-name="电影_刘德华" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_刘德华.png" group-title="☘️轮播台",🔒 电影_刘德华 | 157.1KB/s
-https://lbds.us.ci/11342424
-#EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_斯坦森.png" group-title="☘️轮播台",🔒 电影_斯坦森 | 535.3KB/s
-https://lbds.us.ci/21059588
-#EXTINF:-1 tvg-name="电影_八点档" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_八点档.png" group-title="☘️轮播台",🔒 电影_八点档 | 742.3KB/s
-https://lbds.us.ci/880261
-#EXTINF:-1 tvg-name="电影_贺岁片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_贺岁片.png" group-title="☘️轮播台",🔒 电影_贺岁片 | 553.2KB/s
-https://lbds.us.ci/11601986
-#EXTINF:-1 tvg-name="电影_功夫片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_功夫片.png" group-title="☘️轮播台",🔒 电影_功夫片 | 324.0KB/s
-https://lbds.us.ci/11352941
-#EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_黑帮片.png" group-title="☘️轮播台",🔒 电影_黑帮片 | 173.4KB/s
-https://lbds.us.ci/11336719
-#EXTINF:-1 tvg-name="电影_丧尸片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_丧尸片.png" group-title="☘️轮播台",🔒 电影_丧尸片 | 338.3KB/s
-https://lbds.us.ci/21059578
-#EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_灾难片.png" group-title="☘️轮播台",🔒 电影_灾难片 | 431.6KB/s
-https://lbds.us.ci/11602075
-#EXTINF:-1 tvg-name="电影_战争片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_战争片.png" group-title="☘️轮播台",🔒 电影_战争片 | 245.5KB/s
-https://lbds.us.ci/21059574
-#EXTINF:-1 tvg-name="电影_犯罪片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_犯罪片.png" group-title="☘️轮播台",🔒 电影_犯罪片 | 337.0KB/s
-https://lbds.us.ci/11352974
-#EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_古装片.png" group-title="☘️轮播台",🔒 电影_古装片 | 548.6KB/s
-https://lbds.us.ci/11336590
-#EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_高分动作.png" group-title="☘️轮播台",🔒 电影_高分动作 | 378.0KB/s
-https://lbds.us.ci/11352884
-#EXTINF:-1 tvg-name="电影_动作电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_动作电影.png" group-title="☘️轮播台",🔒 电影_动作电影 | 303.5KB/s
-https://lbds.us.ci/11602077
-#EXTINF:-1 tvg-name="电影_搞笑喜剧" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_搞笑喜剧.png" group-title="☘️轮播台",🔒 电影_搞笑喜剧 | 393.9KB/s
-https://lbds.us.ci/11342423
-#EXTINF:-1 tvg-name="电影_喜剧专场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_喜剧专场.png" group-title="☘️轮播台",🔒 电影_喜剧专场 | 856.3KB/s
-https://lbds.us.ci/11602044
-#EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_欢笑影院.png" group-title="☘️轮播台",🔒 电影_欢笑影院 | 181.9KB/s
-https://lbds.us.ci/11352894
-#EXTINF:-1 tvg-name="电影_不挤影院" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_不挤影院.png" group-title="☘️轮播台",🔒 电影_不挤影院 | 298.3KB/s
-https://lbds.us.ci/11352897
-#EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_国产悬疑.png" group-title="☘️轮播台",🔒 电影_国产悬疑 | 760.8KB/s
-https://lbds.us.ci/11342395
-#EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_快意江湖.png" group-title="☘️轮播台",🔒 电影_快意江湖 | 264.4KB/s
-https://lbds.us.ci/11342435
-#EXTINF:-1 tvg-name="电影_黑帮斗争" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_黑帮斗争.png" group-title="☘️轮播台",🔒 电影_黑帮斗争 | 238.2KB/s
-https://lbds.us.ci/11342419
-#EXTINF:-1 tvg-name="电影_古墓系列" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_古墓系列.png" group-title="☘️轮播台",🔒 电影_古墓系列 | 250.9KB/s
-https://lbds.us.ci/11352913
-#EXTINF:-1 tvg-name="电影_嫣然影厅" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_嫣然影厅.png" group-title="☘️轮播台",🔒 电影_嫣然影厅 | 291.8KB/s
-https://lbds.us.ci/11601977
-#EXTINF:-1 tvg-name="电影_经典女神" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_经典女神.png" group-title="☘️轮播台",🔒 电影_经典女神 | 701.0KB/s
-https://lbds.us.ci/11352909
-#EXTINF:-1 tvg-name="电影_许氏三杰" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_许氏三杰.png" group-title="☘️轮播台",🔒 电影_许氏三杰 | 306.6KB/s
-https://lbds.us.ci/11602033
-#EXTINF:-1 tvg-name="电影_经典港片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_经典港片.png" group-title="☘️轮播台",🔒 电影_经典港片 | 337.0KB/s
-https://lbds.us.ci/11352965
-#EXTINF:-1 tvg-name="电影_镖行天下" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_镖行天下.png" group-title="☘️轮播台",🔒 电影_镖行天下 | 309.8KB/s
-https://lbds.us.ci/11352969
-#EXTINF:-1 tvg-name="电影_喜乐影院" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_喜乐影院.png" group-title="☘️轮播台",🔒 电影_喜乐影院 | 158.1KB/s
-https://lbds.us.ci/21059580
-#EXTINF:-1 tvg-name="电影_蘑菇影厅" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_蘑菇影厅.png" group-title="☘️轮播台",🔒 电影_蘑菇影厅 | 415.2KB/s
-https://lbds.us.ci/11601981
-#EXTINF:-1 tvg-name="电影_搞笑恐怖" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_搞笑恐怖.png" group-title="☘️轮播台",🔒 电影_搞笑恐怖 | 251.2KB/s
-https://lbds.us.ci/11601960
-#EXTINF:-1 tvg-name="电影_死神来了" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_死神来了.png" group-title="☘️轮播台",🔒 电影_死神来了 | 193.6KB/s
-https://lbds.us.ci/11352903
-#EXTINF:-1 tvg-name="狄仁杰电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/狄仁杰电影.png" group-title="☘️轮播台",🔒 狄仁杰电影 | 321.4KB/s
-https://lbds.us.ci/30080229
-#EXTINF:-1 tvg-name="电影蜘蛛侠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影蜘蛛侠.png" group-title="☘️轮播台",🔒 电影蜘蛛侠 | 342.0KB/s
-https://lbds.us.ci/21059599
-#EXTINF:-1 tvg-name="解说_电影狂人" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_电影狂人.png" group-title="☘️轮播台",🔒 解说_电影狂人 | 736.1KB/s
-https://lbds.us.ci/18715610
-#EXTINF:-1 tvg-name="解说_斌哥漫说" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_斌哥漫说.png" group-title="☘️轮播台",🔒 解说_斌哥漫说 | 348.1KB/s
-https://lbds.us.ci/18632116
-#EXTINF:-1 tvg-name="解说_阿良说剧" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_阿良说剧.png" group-title="☘️轮播台",🔒 解说_阿良说剧 | 436.7KB/s
-https://lbds.us.ci/20488841
-#EXTINF:-1 tvg-name="解说_鱼丸电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_鱼丸电影.png" group-title="☘️轮播台",🔒 解说_鱼丸电影 | 1070.9KB/s
-https://lbds.us.ci/16615910
-#EXTINF:-1 tvg-name="解说_阿斗说电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_阿斗说电影.png" group-title="☘️轮播台",🔒 解说_阿斗说电影 | 492.6KB/s
-https://lbds.us.ci/13303478
-#EXTINF:-1 tvg-name="解说_扁豆看电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_扁豆看电影.png" group-title="☘️轮播台",🔒 解说_扁豆看电影 | 898.5KB/s
-https://lbds.us.ci/16028551
-#EXTINF:-1 tvg-name="解说_大象放映室" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_大象放映室.png" group-title="☘️轮播台",🔒 解说_大象放映室 | 816.0KB/s
-https://lbds.us.ci/21277391
-#EXTINF:-1 tvg-name="解说_科幻梦工场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_科幻梦工场.png" group-title="☘️轮播台",🔒 解说_科幻梦工场 | 775.5KB/s
-https://lbds.us.ci/15152155
-#EXTINF:-1 tvg-name="解说_亮哥讲电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_亮哥讲电影.png" group-title="☘️轮播台",🔒 解说_亮哥讲电影 | 593.5KB/s
-https://lbds.us.ci/16144175
-#EXTINF:-1 tvg-name="解说_越哥说电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_越哥说电影.png" group-title="☘️轮播台",🔒 解说_越哥说电影 | 307.6KB/s
-https://lbds.us.ci/15894162
-#EXTINF:-1 tvg-name="解说_涵哥评电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/解说_涵哥评电影.png" group-title="☘️轮播台",🔒 解说_涵哥评电影 | 769.1KB/s
-https://lbds.us.ci/16865726
-#EXTINF:-1 tvg-name="剧集_老三国" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_老三国.png" group-title="☘️轮播台",🔒 剧集_老三国 | 524.3KB/s
-https://lbds.us.ci/11602081
-#EXTINF:-1 tvg-name="剧集_新三国" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_新三国.png" group-title="☘️轮播台",🔒 剧集_新三国 | 474.6KB/s
-https://lbds.us.ci/11352944
-#EXTINF:-1 tvg-name="剧集_新水浒" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_新水浒.png" group-title="☘️轮播台",🔒 剧集_新水浒 | 306.1KB/s
-https://lbds.us.ci/11342384
-#EXTINF:-1 tvg-name="剧集_纪晓岚" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_纪晓岚.png" group-title="☘️轮播台",🔒 剧集_纪晓岚 | 624.7KB/s
-https://lbds.us.ci/11342396
-#EXTINF:-1 tvg-name="剧集_庆余年" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_庆余年.png" group-title="☘️轮播台",🔒 剧集_庆余年 | 731.2KB/s
-https://lbds.us.ci/11352960
-#EXTINF:-1 tvg-name="剧集_雍正王朝" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_雍正王朝.png" group-title="☘️轮播台",🔒 剧集_雍正王朝 | 236.0KB/s
-https://lbds.us.ci/11342439
-#EXTINF:-1 tvg-name="剧集_爱情公寓" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_爱情公寓.png" group-title="☘️轮播台",🔒 剧集_爱情公寓 | 275.7KB/s
-https://lbds.us.ci/11336726
-#EXTINF:-1 tvg-name="剧集_家有儿女" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_家有儿女.png" group-title="☘️轮播台",🔒 剧集_家有儿女 | 286.1KB/s
-https://lbds.us.ci/11352872
-#EXTINF:-1 tvg-name="剧集_武林外传" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_武林外传.png" group-title="☘️轮播台",🔒 剧集_武林外传 | 213.3KB/s
-https://lbds.us.ci/21059598
-#EXTINF:-1 tvg-name="剧集_地下交通站" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_地下交通站.png" group-title="☘️轮播台",🔒 剧集_地下交通站 | 354.8KB/s
-https://lbds.us.ci/11342433
-#EXTINF:-1 tvg-name="剧集_邻里一家亲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_邻里一家亲.png" group-title="☘️轮播台",🔒 剧集_邻里一家亲 | 272.4KB/s
-https://lbds.us.ci/11342426
-#EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/搞笑_陈翔六点半.png" group-title="☘️轮播台",🔒 搞笑_陈翔六点半 | 671.9KB/s
-https://lbds.us.ci/11274154
-#EXTINF:-1 tvg-name="西游记" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="☘️轮播台",🔒 西游记 | 168.2KB/s
-https://lbds.us.ci/26355861
-#EXTINF:-1 tvg-name="寻秦记" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/寻秦记.png" group-title="☘️轮播台",🔒 寻秦记 | 296.2KB/s
-https://lbds.us.ci/29465848
-#EXTINF:-1 tvg-name="无心法师" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/无心法师.png" group-title="☘️轮播台",🔒 无心法师 | 324.5KB/s
-https://lbds.us.ci/30080233
-#EXTINF:-1 tvg-name="大宋提刑官" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大宋提刑官.png" group-title="☘️轮播台",🔒 大宋提刑官 | 572.6KB/s
-https://lbds.us.ci/26355856
-#EXTINF:-1 tvg-name="笑看风云" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/笑看风云.png" group-title="☘️轮播台",🔒 笑看风云 | 755.8KB/s
-https://lbds.us.ci/29465858
-#EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/陀枪师姐.png" group-title="☘️轮播台",🔒 陀枪师姐 | 703.7KB/s
-https://lbds.us.ci/29465857
-#EXTINF:-1 tvg-name="法政先锋" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/法政先锋.png" group-title="☘️轮播台",🔒 法政先锋 | 237.5KB/s
-https://lbds.us.ci/23863804
-#EXTINF:-1 tvg-name="刑事侦缉档案" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/刑事侦缉档案.png" group-title="☘️轮播台",🔒 刑事侦缉档案 | 775.8KB/s
-https://lbds.us.ci/29465856
-#EXTINF:-1 tvg-name="妙手仁心" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/妙手仁心.png" group-title="☘️轮播台",🔒 妙手仁心 | 225.2KB/s
-https://lbds.us.ci/29465853
-#EXTINF:-1 tvg-name="野蛮奶奶" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/野蛮奶奶.png" group-title="☘️轮播台",🔒 野蛮奶奶 | 934.8KB/s
-https://lbds.us.ci/23863796
-#EXTINF:-1 tvg-name="扫黄先锋" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/扫黄先锋.png" group-title="☘️轮播台",🔒 扫黄先锋 | 380.9KB/s
-https://lbds.us.ci/29465855
-#EXTINF:-1 tvg-name="洗冤录" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/洗冤录.png" group-title="☘️轮播台",🔒 洗冤录 | 717.3KB/s
-https://lbds.us.ci/29465851
-#EXTINF:-1 tvg-name="九阴真经" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/九阴真经.png" group-title="☘️轮播台",🔒 九阴真经 | 800.2KB/s
-https://lbds.us.ci/23824164
-#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="☘️轮播台",🔒 封神榜 | 1018.2KB/s
-https://lbds.us.ci/29465849
-#EXTINF:-1 tvg-name="西游记2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记2.png" group-title="☘️轮播台",🔒 西游记2 | 166.8KB/s
-https://lbds.us.ci/29465859
-#EXTINF:-1 tvg-name="鉴证实录" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/鉴证实录.png" group-title="☘️轮播台",🔒 鉴证实录 | 157.1KB/s
-https://lbds.us.ci/23903183
-#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/楚汉骄雄.png" group-title="☘️轮播台",🔒 楚汉骄雄 | 1027.0KB/s
-https://lbds.us.ci/29465854
-#EXTINF:-1 tvg-name="金枝欲孽" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金枝欲孽.png" group-title="☘️轮播台",🔒 金枝欲孽 | 634.5KB/s
-https://lbds.us.ci/29465847
-#EXTINF:-1 tvg-name="大唐双龙传" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大唐双龙传.png" group-title="☘️轮播台",🔒 大唐双龙传 | 281.3KB/s
-https://lbds.us.ci/29465850
-#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="☘️轮播台",🔒 天龙八部 | 233.7KB/s
-https://lbds.us.ci/20985816
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="☘️轮播台",🔒 倚天屠龙记 | 246.3KB/s
-https://lbds.us.ci/23734246
-#EXTINF:-1 tvg-name="大时代" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大时代.png" group-title="☘️轮播台",🔒 大时代 | 367.4KB/s
-https://lbds.us.ci/23865161
-#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/名侦探柯南.png" group-title="☘️轮播台",🔒 名侦探柯南 | 403.3KB/s
-https://lbds.us.ci/30080236
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哆啦A梦.png" group-title="☘️轮播台",🔒 哆啦A梦 | 293.6KB/s
-https://lbds.us.ci/11601963
-#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/喜羊羊与灰太狼.png" group-title="☘️轮播台",🔒 喜羊羊与灰太狼 | 160.5KB/s
-https://lbds.us.ci/23865080
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/猫和老鼠.png" group-title="☘️轮播台",🔒 猫和老鼠 | 312.9KB/s
-https://lbds.us.ci/11352879
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/国学频道.png" group-title="数字频道",🌐 国学频道 | 349.6KB/s
+http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=892329912b331a872e448f62661df711&wsTime=1795154612
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="☘️北京市",🌐 北京卫视4K | 224.6KB/s
 http://120.211.62.180:8000/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="☘️上海市",🌐 东方卫视4K | 832.0KB/s
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="☘️上海市",🔒 东方卫视4K | 832.0KB/s
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="☘️福建省",🌐 厦门卫视 | 232.4KB/s
+http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园频道.png" group-title="☘️河南省",🔒 梨园频道 | 644.5KB/s
 https://d1t.alwaysdata.net/mgvt/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93
-#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园频道.png" group-title="☘️河南省",🔒 梨园频道 | 280.3KB/s
-https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=443d9e6610a0487980ec6704d6708528&wsTime=1795125845
 #EXTINF:-1 tvg-name="河南新闻频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南新闻频道.png" group-title="☘️河南省",🌐 河南新闻频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=6dd55f2aff07f4a9f0bc523eae6a2af0&wsTime=1795125845
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=fc2660b5774d3fc60e14b5c4533b0199&wsTime=1795154612
 #EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南电视剧频道.png" group-title="☘️河南省",🌐 河南电视剧频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=43e2c957c6c44381591baf1323133630&wsTime=1795125845
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=1aa9704e93cd17e79916e357d03e02a4&wsTime=1795154612
 #EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南公共频道.png" group-title="☘️河南省",🌐 河南公共频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=16e4b345e805f4ebc80f215704efe24d&wsTime=1795125845
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=99c9123d723ba8abb41c108c0a5b0f84&wsTime=1795154612
 #EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市频道.png" group-title="☘️河南省",🌐 河南都市频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=d5bf398de5a7fecea8f2733d27b85d4a&wsTime=1795125845
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=fe259149a188ff095b5ac931658d1618&wsTime=1795154612
 #EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生频道.png" group-title="☘️河南省",🌐 河南民生频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=96c20ec5af3b26d3f45c36787baa2583&wsTime=1795125845
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=490b3351f2e67d0d6d9470f29996b923&wsTime=1795154612
 #EXTINF:-1 tvg-name="河南法治频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南法治频道.png" group-title="☘️河南省",🌐 河南法治频道 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=65f0e7eb0c43a3184da683d70482999c&wsTime=1795125845
-#EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南乡村.png" group-title="☘️河南省",🌐 河南乡村 | 348.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=424d324be681cfe78bf0a49fdded9ff7&wsTime=1795125845
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4K.png" group-title="☘️湖南省",🔒 湖南卫视4K | 2040.8KB/s
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=035e8d1c4d5c7981329144c5e856aaa0&wsTime=1795154612
+#EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南乡村.png" group-title="☘️河南省",🌐 河南乡村 | 349.6KB/s
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=1fab26e155302b1ab48c053fb285ef4b&wsTime=1795154612
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4K.png" group-title="☘️湖南省",🔒 湖南卫视4K | 3272.1KB/s
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="☘️吉林省",🔒 延边卫视 | 514.6KB/s
-https://srs.iyb983.cn:443/video/CYS/index.m3u8
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="☘️吉林省",🔒 延边卫视 | 514.6KB/s
 https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="☘️吉林省",🔒 延边卫视 | 514.6KB/s
+https://srs.iyb983.cn:443/video/CYS/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="☘️新疆",🌐 新疆卫视 | 325.2KB/s
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-#EXTINF:-1 tvg-name="4K视频[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/4K视频[刷新就是新内容].png" group-title="其他",🌐 4K视频[刷新就是新内容] | 8199.3KB/s
+#EXTINF:-1 tvg-name="4K视频[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/4K视频[刷新就是新内容].png" group-title="其他",🌐 4K视频[刷新就是新内容] | 1817.0KB/s
 http://xjj1.716888.xyz/fenlei/4k/4k.php
-#EXTINF:-1 tvg-name="DJ舞曲[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DJ舞曲[刷新就是新内容].png" group-title="其他",🌐 DJ舞曲[刷新就是新内容] | 525.4KB/s
+#EXTINF:-1 tvg-name="DJ舞曲[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DJ舞曲[刷新就是新内容].png" group-title="其他",🌐 DJ舞曲[刷新就是新内容] | 2657.3KB/s
 http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
 #EXTINF:-1 tvg-name="欢腾购物" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/欢腾购物.png" group-title="其他",🌐 欢腾购物 | 349.6KB/s
-http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=b5861a555fe93173efff00d9dcee8a77&wsTime=1795125845
-#EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_星爷.png" group-title="其他",🔒 电影_星爷 | 731.7KB/s
-https://lbds.us.ci/11342412
-#EXTINF:-1 tvg-name="网络热曲[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/网络热曲[刷新就是新内容].png" group-title="其他",🔒 网络热曲[刷新就是新内容] | 29221.3KB/s
+http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=79257d1ade75a9dcc7e0472fe8df152f&wsTime=1795154612
+#EXTINF:-1 tvg-name="网络热曲[刷新就是新内容]" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/网络热曲[刷新就是新内容].png" group-title="其他",🔒 网络热曲[刷新就是新内容] | 132432.1KB/s
 https://188sp.711888.xyz/188/video.php
