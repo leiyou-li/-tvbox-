@@ -10,3 +10,5 @@ lbds.us.ci
 116.52.173.186
 182.115.48.225
 d1t.alwaysdata.net
+fuxin.yunjifei.top
+bp-resource-dfl.bestv.cn
